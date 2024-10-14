@@ -1,0 +1,11 @@
+Product Name,Product Category,Cost per Unit,Sale Price per Unit,Units Sold,Total Cost of Units Sold,Total Revenue of Units Sold
+Apple,Fruit,0.3,0.5,100,30.0,50.0
+Banana,Fruit,0.15,0.25,150,22.5,37.5
+Orange,Fruit,0.4,0.6,80,32.0,48.0
+Broccoli,Vegetable,0.5,0.8,60,30.0,48.0
+Carrot,Vegetable,0.2,0.35,200,40.0,70.0
+Chicken Breast,Meat,3.0,4.0,40,120.0,160.0
+Milk,Dairy,1.2,1.5,120,144.0,180.0
+Eggs,Dairy,0.1,0.15,300,30.0,45.0
+Bread,Bakery,1.5,2.0,90,135.0,180.0
+Cheese,Dairy,2.5,3.0,50,125.0,150.0
