@@ -1,0 +1,1 @@
+Create a dataset of sensor data. Each row should have a sensor_id, a timestamp, a temperature in celcius, relative humidity, and pressure in millibars. There should be 10 different sensors and each sensor should have 1 row per minute starting at 01:00 UTC on July 1 2025 and ending at 02:00 UTC on July 1 2025

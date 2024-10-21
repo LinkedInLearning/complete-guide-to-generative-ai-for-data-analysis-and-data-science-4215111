@@ -1,0 +1,1221 @@
+Date Sold,Product Name,Product Category,Cost per Unit,Sale Price per Unit,Units Sold,Total Cost of Units Sold,Total Revenue of Units Sold
+2023-01-01,Frozen Pizza,Frozen Foods,2.78,7.64,3,8.34,22.92
+2023-01-01,Laundry Detergent,Cleaners,8.16,8.53,6,48.96,51.18
+2023-01-01,Chicken Breast,Meat,3.84,5.95,5,19.2,29.75
+2023-01-01,Cola,Beverages,5.48,3.17,9,49.32,28.53
+2023-01-01,Cola,Beverages,0.12,8.21,3,0.36,24.63
+2023-01-01,Laundry Detergent,Cleaners,4.95,7.71,5,24.75,38.55
+2023-01-01,Milk,Dairy,3.95,10.83,2,7.9,21.66
+2023-01-01,Frozen Pizza,Frozen Foods,5.19,8.33,9,46.71,74.97
+2023-01-01,Chocolate Bar,Other,5.58,5.73,7,39.06,40.11
+2023-01-01,Toilet Paper,Paper Goods,6.65,4.56,2,13.3,9.12
+2023-01-01,Apples,Produce,5.65,4.21,2,11.3,8.42
+2023-01-01,Chocolate Bar,Other,0.64,4.91,4,2.56,19.64
+2023-01-01,Toilet Paper,Paper Goods,6.57,12.31,8,52.56,98.48
+2023-01-01,Chicken Breast,Meat,2.04,5.56,5,10.2,27.8
+2023-01-01,Toilet Paper,Paper Goods,2.31,5.24,9,20.79,47.16
+2023-01-01,Cola,Beverages,4.91,6.45,1,4.91,6.45
+2023-01-01,Toilet Paper,Paper Goods,7.06,8.86,1,7.06,8.86
+2023-01-01,Chicken Breast,Meat,5.42,8.19,7,37.94,57.33
+2023-01-01,Shampoo,Personal Care,1.98,9.2,7,13.86,64.4
+2023-01-01,Laundry Detergent,Cleaners,7.42,9.47,8,59.36,75.76
+2023-01-01,Apples,Produce,4.86,9.01,5,24.3,45.05
+2023-01-01,Milk,Dairy,5.72,10.08,7,40.04,70.56
+2023-01-01,Shampoo,Personal Care,3.77,7.67,3,11.31,23.01
+2023-01-01,Laundry Detergent,Cleaners,10.27,4.95,4,41.08,19.8
+2023-01-01,Chicken Breast,Meat,3.93,4.01,4,15.72,16.04
+2023-01-01,Laundry Detergent,Cleaners,3.38,6.0,2,6.76,12.0
+2023-01-01,Chocolate Bar,Other,6.0,9.32,6,36.0,55.92
+2023-01-01,Frozen Pizza,Frozen Foods,5.19,8.94,7,36.33,62.58
+2023-01-01,Shampoo,Personal Care,3.6,6.34,9,32.4,57.06
+2023-01-01,Shampoo,Personal Care,5.59,7.52,7,39.13,52.64
+2023-01-01,Apples,Produce,-0.31,7.69,5,-1.55,38.45
+2023-01-01,Cola,Beverages,4.31,5.4,6,25.86,32.4
+2023-01-01,Toilet Paper,Paper Goods,3.11,9.81,1,3.11,9.81
+2023-01-01,Chocolate Bar,Other,1.16,6.95,1,1.16,6.95
+2023-01-01,Toilet Paper,Paper Goods,5.2,6.13,2,10.4,12.26
+2023-01-01,Apples,Produce,4.84,6.52,1,4.84,6.52
+2023-01-02,Whole Wheat Bread,Bread/Bakery,0.0,9.96,6,0.0,59.76
+2023-01-02,Laundry Detergent,Cleaners,7.29,8.5,1,7.29,8.5
+2023-01-02,Apples,Produce,7.81,4.2,6,46.86,25.2
+2023-01-02,Apples,Produce,3.24,7.15,1,3.24,7.15
+2023-01-02,Shampoo,Personal Care,3.02,5.87,3,9.06,17.61
+2023-01-02,Frozen Pizza,Frozen Foods,2.81,5.64,3,8.43,16.92
+2023-01-02,Milk,Dairy,3.56,6.46,9,32.04,58.14
+2023-01-02,Cola,Beverages,5.86,2.06,8,46.88,16.48
+2023-01-02,Cola,Beverages,7.34,8.75,2,14.68,17.5
+2023-01-02,Laundry Detergent,Cleaners,8.74,7.79,7,61.18,54.53
+2023-01-02,Chocolate Bar,Other,5.03,7.76,1,5.03,7.76
+2023-01-02,Whole Wheat Bread,Bread/Bakery,7.0,7.3,7,49.0,51.1
+2023-01-02,Shampoo,Personal Care,6.93,4.87,3,20.79,14.61
+2023-01-02,Frozen Pizza,Frozen Foods,5.5,7.69,8,44.0,61.52
+2023-01-02,Frozen Pizza,Frozen Foods,5.45,8.69,3,16.35,26.07
+2023-01-02,Shampoo,Personal Care,5.35,4.57,6,32.1,27.42
+2023-01-02,Milk,Dairy,2.62,8.31,1,2.62,8.31
+2023-01-02,Frozen Pizza,Frozen Foods,3.5,4.74,4,14.0,18.96
+2023-01-02,Toilet Paper,Paper Goods,6.93,7.83,1,6.93,7.83
+2023-01-02,Cola,Beverages,6.27,13.12,6,37.62,78.72
+2023-01-02,Laundry Detergent,Cleaners,6.08,4.0,6,36.48,24.0
+2023-01-02,Milk,Dairy,5.55,8.65,2,11.1,17.3
+2023-01-02,Chicken Breast,Meat,10.47,7.19,1,10.47,7.19
+2023-01-02,Chicken Breast,Meat,4.99,3.86,4,19.96,15.44
+2023-01-02,Milk,Dairy,4.98,7.38,5,24.9,36.9
+2023-01-02,Apples,Produce,4.75,8.48,5,23.75,42.4
+2023-01-02,Milk,Dairy,3.1,5.81,1,3.1,5.81
+2023-01-02,Milk,Dairy,5.43,4.51,6,32.58,27.06
+2023-01-02,Chocolate Bar,Other,6.27,4.84,7,43.89,33.88
+2023-01-02,Whole Wheat Bread,Bread/Bakery,3.29,4.95,1,3.29,4.95
+2023-01-02,Toilet Paper,Paper Goods,7.17,9.11,7,50.19,63.77
+2023-01-02,Chocolate Bar,Other,6.03,8.03,9,54.27,72.27
+2023-01-02,Toilet Paper,Paper Goods,5.05,8.74,9,45.45,78.66
+2023-01-02,Frozen Pizza,Frozen Foods,6.14,9.27,3,18.42,27.81
+2023-01-02,Laundry Detergent,Cleaners,5.14,6.18,7,35.98,43.26
+2023-01-02,Apples,Produce,3.17,6.09,6,19.02,36.54
+2023-01-02,Chocolate Bar,Other,4.17,8.19,6,25.02,49.14
+2023-01-02,Apples,Produce,1.02,7.85,8,8.16,62.8
+2023-01-02,Chicken Breast,Meat,7.42,6.7,4,29.68,26.8
+2023-01-02,Milk,Dairy,7.73,8.66,2,15.46,17.32
+2023-01-02,Chocolate Bar,Other,7.1,5.74,3,21.3,17.22
+2023-01-02,Chocolate Bar,Other,3.46,10.32,1,3.46,10.32
+2023-01-02,Whole Wheat Bread,Bread/Bakery,4.36,6.59,9,39.24,59.31
+2023-01-02,Toilet Paper,Paper Goods,5.37,8.16,7,37.59,57.12
+2023-01-02,Chicken Breast,Meat,2.35,10.69,3,7.05,32.07
+2023-01-02,Chicken Breast,Meat,4.32,5.37,5,21.6,26.85
+2023-01-02,Cola,Beverages,6.4,8.2,4,25.6,32.8
+2023-01-02,Cola,Beverages,9.23,6.0,6,55.38,36.0
+2023-01-03,Frozen Pizza,Frozen Foods,4.74,6.07,3,14.22,18.21
+2023-01-03,Chocolate Bar,Other,11.37,7.17,4,45.48,28.68
+2023-01-03,Toilet Paper,Paper Goods,5.69,8.85,4,22.76,35.4
+2023-01-03,Toilet Paper,Paper Goods,6.5,10.62,1,6.5,10.62
+2023-01-03,Cola,Beverages,5.96,7.93,3,17.88,23.79
+2023-01-03,Cola,Beverages,5.56,5.75,1,5.56,5.75
+2023-01-03,Chocolate Bar,Other,6.77,6.07,2,13.54,12.14
+2023-01-03,Milk,Dairy,3.76,6.29,5,18.8,31.45
+2023-01-03,Whole Wheat Bread,Bread/Bakery,6.8,7.61,4,27.2,30.44
+2023-01-03,Shampoo,Personal Care,3.74,8.75,5,18.7,43.75
+2023-01-03,Shampoo,Personal Care,8.74,10.38,3,26.22,31.14
+2023-01-03,Frozen Pizza,Frozen Foods,7.56,5.82,8,60.48,46.56
+2023-01-03,Laundry Detergent,Cleaners,8.11,6.12,9,72.99,55.08
+2023-01-03,Milk,Dairy,7.61,7.04,6,45.66,42.24
+2023-01-03,Milk,Dairy,5.65,6.74,4,22.6,26.96
+2023-01-03,Milk,Dairy,3.29,6.97,5,16.45,34.85
+2023-01-03,Milk,Dairy,7.25,11.29,5,36.25,56.45
+2023-01-03,Frozen Pizza,Frozen Foods,8.63,7.81,9,77.67,70.29
+2023-01-03,Chocolate Bar,Other,5.18,7.17,6,31.08,43.02
+2023-01-03,Laundry Detergent,Cleaners,2.12,6.23,9,19.08,56.07
+2023-01-03,Whole Wheat Bread,Bread/Bakery,1.84,7.16,8,14.72,57.28
+2023-01-03,Cola,Beverages,4.37,7.92,7,30.59,55.44
+2023-01-03,Shampoo,Personal Care,1.51,9.14,3,4.53,27.42
+2023-01-03,Apples,Produce,2.96,8.66,3,8.88,25.98
+2023-01-03,Laundry Detergent,Cleaners,1.83,6.16,2,3.66,12.32
+2023-01-03,Chocolate Bar,Other,6.7,8.54,9,60.3,76.86
+2023-01-03,Laundry Detergent,Cleaners,6.04,10.07,9,54.36,90.63
+2023-01-03,Cola,Beverages,5.11,5.31,5,25.55,26.55
+2023-01-03,Apples,Produce,1.21,8.2,6,7.26,49.2
+2023-01-03,Chicken Breast,Meat,5.95,7.11,2,11.9,14.22
+2023-01-03,Shampoo,Personal Care,3.6,5.07,1,3.6,5.07
+2023-01-03,Chicken Breast,Meat,3.21,10.05,7,22.47,70.35
+2023-01-03,Shampoo,Personal Care,4.71,5.8,8,37.68,46.4
+2023-01-03,Chicken Breast,Meat,3.32,5.8,8,26.56,46.4
+2023-01-04,Chicken Breast,Meat,5.68,10.75,1,5.68,10.75
+2023-01-04,Chicken Breast,Meat,6.14,8.94,3,18.42,26.82
+2023-01-04,Apples,Produce,2.36,10.66,8,18.88,85.28
+2023-01-04,Whole Wheat Bread,Bread/Bakery,2.54,7.38,8,20.32,59.04
+2023-01-04,Cola,Beverages,4.78,10.05,1,4.78,10.05
+2023-01-04,Chicken Breast,Meat,3.77,9.87,1,3.77,9.87
+2023-01-04,Cola,Beverages,0.1,5.2,1,0.1,5.2
+2023-01-04,Chicken Breast,Meat,5.01,7.09,5,25.05,35.45
+2023-01-04,Chicken Breast,Meat,4.37,3.8,1,4.37,3.8
+2023-01-04,Milk,Dairy,3.26,5.66,1,3.26,5.66
+2023-01-04,Cola,Beverages,-1.96,6.46,3,-5.88,19.38
+2023-01-04,Whole Wheat Bread,Bread/Bakery,5.34,9.31,5,26.7,46.55
+2023-01-04,Shampoo,Personal Care,3.87,12.08,7,27.09,84.56
+2023-01-04,Chicken Breast,Meat,7.98,8.76,3,23.94,26.28
+2023-01-04,Laundry Detergent,Cleaners,7.12,3.48,3,21.36,10.44
+2023-01-04,Whole Wheat Bread,Bread/Bakery,5.4,2.66,8,43.2,21.28
+2023-01-04,Laundry Detergent,Cleaners,8.81,7.46,4,35.24,29.84
+2023-01-04,Chocolate Bar,Other,4.97,8.59,4,19.88,34.36
+2023-01-04,Toilet Paper,Paper Goods,5.26,6.04,2,10.52,12.08
+2023-01-04,Milk,Dairy,0.65,11.06,6,3.9,66.36
+2023-01-04,Toilet Paper,Paper Goods,6.12,5.18,9,55.08,46.62
+2023-01-04,Milk,Dairy,5.09,9.15,2,10.18,18.3
+2023-01-04,Chocolate Bar,Other,6.23,5.94,2,12.46,11.88
+2023-01-04,Chocolate Bar,Other,4.79,4.93,2,9.58,9.86
+2023-01-04,Cola,Beverages,8.93,7.07,9,80.37,63.63
+2023-01-04,Chocolate Bar,Other,6.03,9.41,8,48.24,75.28
+2023-01-04,Cola,Beverages,6.7,5.76,1,6.7,5.76
+2023-01-04,Milk,Dairy,3.94,5.85,8,31.52,46.8
+2023-01-04,Apples,Produce,6.54,5.44,8,52.32,43.52
+2023-01-04,Whole Wheat Bread,Bread/Bakery,6.7,5.02,7,46.9,35.14
+2023-01-04,Whole Wheat Bread,Bread/Bakery,8.05,2.09,9,72.45,18.81
+2023-01-04,Laundry Detergent,Cleaners,4.63,6.9,9,41.67,62.1
+2023-01-04,Cola,Beverages,3.71,4.84,9,33.39,43.56
+2023-01-04,Cola,Beverages,4.3,2.78,3,12.9,8.34
+2023-01-04,Shampoo,Personal Care,3.25,6.99,6,19.5,41.94
+2023-01-04,Whole Wheat Bread,Bread/Bakery,9.17,9.78,3,27.51,29.34
+2023-01-04,Chocolate Bar,Other,3.25,4.23,2,6.5,8.46
+2023-01-04,Toilet Paper,Paper Goods,0.84,6.96,9,7.56,62.64
+2023-01-04,Cola,Beverages,4.59,2.44,8,36.72,19.52
+2023-01-04,Laundry Detergent,Cleaners,6.59,7.29,6,39.54,43.74
+2023-01-04,Apples,Produce,3.55,5.93,3,10.65,17.79
+2023-01-04,Shampoo,Personal Care,5.57,10.57,3,16.71,31.71
+2023-01-04,Chicken Breast,Meat,3.87,5.0,3,11.61,15.0
+2023-01-04,Frozen Pizza,Frozen Foods,1.74,7.1,1,1.74,7.1
+2023-01-04,Chocolate Bar,Other,4.57,7.28,4,18.28,29.12
+2023-01-04,Milk,Dairy,4.7,6.19,5,23.5,30.95
+2023-01-04,Laundry Detergent,Cleaners,2.2,7.46,8,17.6,59.68
+2023-01-05,Frozen Pizza,Frozen Foods,6.67,4.74,1,6.67,4.74
+2023-01-05,Shampoo,Personal Care,3.55,11.87,7,24.85,83.09
+2023-01-05,Milk,Dairy,6.15,6.59,2,12.3,13.18
+2023-01-05,Chicken Breast,Meat,5.34,7.18,3,16.02,21.54
+2023-01-05,Milk,Dairy,5.37,7.71,8,42.96,61.68
+2023-01-05,Shampoo,Personal Care,6.53,8.28,3,19.59,24.84
+2023-01-05,Chicken Breast,Meat,3.85,5.64,4,15.4,22.56
+2023-01-05,Shampoo,Personal Care,4.46,8.9,8,35.68,71.2
+2023-01-05,Toilet Paper,Paper Goods,0.92,4.98,3,2.76,14.94
+2023-01-05,Apples,Produce,0.35,10.02,1,0.35,10.02
+2023-01-05,Shampoo,Personal Care,2.58,3.77,2,5.16,7.54
+2023-01-05,Chicken Breast,Meat,5.47,8.54,3,16.41,25.62
+2023-01-05,Apples,Produce,5.33,8.14,8,42.64,65.12
+2023-01-05,Chocolate Bar,Other,5.68,6.17,1,5.68,6.17
+2023-01-05,Frozen Pizza,Frozen Foods,5.96,10.17,6,35.76,61.02
+2023-01-05,Shampoo,Personal Care,2.82,5.37,7,19.74,37.59
+2023-01-05,Cola,Beverages,5.14,6.04,5,25.7,30.2
+2023-01-05,Chocolate Bar,Other,7.08,5.98,4,28.32,23.92
+2023-01-05,Toilet Paper,Paper Goods,5.11,12.01,8,40.88,96.08
+2023-01-05,Chicken Breast,Meat,-0.15,6.23,2,-0.3,12.46
+2023-01-05,Milk,Dairy,5.83,10.75,5,29.15,53.75
+2023-01-05,Frozen Pizza,Frozen Foods,1.44,9.99,8,11.52,79.92
+2023-01-05,Whole Wheat Bread,Bread/Bakery,4.59,7.09,4,18.36,28.36
+2023-01-05,Frozen Pizza,Frozen Foods,7.41,8.34,9,66.69,75.06
+2023-01-05,Apples,Produce,4.34,6.06,4,17.36,24.24
+2023-01-05,Apples,Produce,4.05,8.9,6,24.3,53.4
+2023-01-05,Laundry Detergent,Cleaners,6.08,4.28,9,54.72,38.52
+2023-01-05,Chicken Breast,Meat,7.14,5.83,5,35.7,29.15
+2023-01-05,Chocolate Bar,Other,2.98,3.69,9,26.82,33.21
+2023-01-05,Chocolate Bar,Other,4.54,8.26,2,9.08,16.52
+2023-01-05,Whole Wheat Bread,Bread/Bakery,5.32,8.55,3,15.96,25.65
+2023-01-06,Frozen Pizza,Frozen Foods,6.61,6.69,1,6.61,6.69
+2023-01-06,Apples,Produce,3.66,5.69,1,3.66,5.69
+2023-01-06,Laundry Detergent,Cleaners,4.93,7.86,4,19.72,31.44
+2023-01-06,Apples,Produce,5.22,9.26,8,41.76,74.08
+2023-01-06,Cola,Beverages,2.88,4.76,7,20.16,33.32
+2023-01-06,Milk,Dairy,5.4,6.71,1,5.4,6.71
+2023-01-06,Toilet Paper,Paper Goods,1.7,8.4,3,5.1,25.2
+2023-01-06,Whole Wheat Bread,Bread/Bakery,-0.3,9.18,2,-0.6,18.36
+2023-01-06,Apples,Produce,4.29,7.48,8,34.32,59.84
+2023-01-06,Laundry Detergent,Cleaners,4.7,8.06,3,14.1,24.18
+2023-01-06,Whole Wheat Bread,Bread/Bakery,4.28,6.86,2,8.56,13.72
+2023-01-06,Laundry Detergent,Cleaners,4.82,7.06,7,33.74,49.42
+2023-01-06,Milk,Dairy,6.44,4.74,8,51.52,37.92
+2023-01-06,Apples,Produce,6.63,3.24,3,19.89,9.72
+2023-01-06,Cola,Beverages,8.43,7.88,3,25.29,23.64
+2023-01-06,Toilet Paper,Paper Goods,6.42,7.89,4,25.68,31.56
+2023-01-06,Frozen Pizza,Frozen Foods,2.84,8.23,7,19.88,57.61
+2023-01-06,Whole Wheat Bread,Bread/Bakery,5.65,4.5,2,11.3,9.0
+2023-01-06,Whole Wheat Bread,Bread/Bakery,5.45,8.5,2,10.9,17.0
+2023-01-06,Milk,Dairy,1.89,8.21,5,9.45,41.05
+2023-01-06,Chicken Breast,Meat,7.49,2.66,2,14.98,5.32
+2023-01-06,Chicken Breast,Meat,5.42,6.81,6,32.52,40.86
+2023-01-06,Toilet Paper,Paper Goods,5.33,5.05,7,37.31,35.35
+2023-01-06,Cola,Beverages,9.56,1.43,9,86.04,12.87
+2023-01-06,Toilet Paper,Paper Goods,3.41,10.24,9,30.69,92.16
+2023-01-06,Apples,Produce,3.0,10.71,2,6.0,21.42
+2023-01-06,Laundry Detergent,Cleaners,6.9,8.08,5,34.5,40.4
+2023-01-06,Chocolate Bar,Other,1.74,8.1,1,1.74,8.1
+2023-01-06,Chicken Breast,Meat,7.06,7.95,7,49.42,55.65
+2023-01-06,Chicken Breast,Meat,8.24,10.14,9,74.16,91.26
+2023-01-06,Chicken Breast,Meat,1.32,4.44,2,2.64,8.88
+2023-01-06,Apples,Produce,4.3,7.4,4,17.2,29.6
+2023-01-06,Milk,Dairy,3.78,4.19,8,30.24,33.52
+2023-01-06,Frozen Pizza,Frozen Foods,3.05,9.11,3,9.15,27.33
+2023-01-06,Apples,Produce,9.16,6.39,6,54.96,38.34
+2023-01-06,Apples,Produce,3.28,8.4,4,13.12,33.6
+2023-01-07,Frozen Pizza,Frozen Foods,5.57,6.44,1,5.57,6.44
+2023-01-07,Whole Wheat Bread,Bread/Bakery,4.04,11.6,9,36.36,104.4
+2023-01-07,Shampoo,Personal Care,2.91,3.44,8,23.28,27.52
+2023-01-07,Chocolate Bar,Other,3.41,6.85,2,6.82,13.7
+2023-01-07,Chicken Breast,Meat,6.97,5.81,1,6.97,5.81
+2023-01-07,Cola,Beverages,4.85,8.24,8,38.8,65.92
+2023-01-07,Milk,Dairy,6.63,8.24,7,46.41,57.68
+2023-01-07,Chicken Breast,Meat,6.67,7.92,9,60.03,71.28
+2023-01-07,Whole Wheat Bread,Bread/Bakery,1.95,6.88,9,17.55,61.92
+2023-01-07,Chocolate Bar,Other,6.64,7.27,5,33.2,36.35
+2023-01-07,Laundry Detergent,Cleaners,5.89,6.57,2,11.78,13.14
+2023-01-07,Laundry Detergent,Cleaners,6.31,8.58,4,25.24,34.32
+2023-01-07,Laundry Detergent,Cleaners,7.71,1.58,7,53.97,11.06
+2023-01-07,Cola,Beverages,2.45,9.83,2,4.9,19.66
+2023-01-07,Milk,Dairy,2.92,9.56,7,20.44,66.92
+2023-01-07,Laundry Detergent,Cleaners,4.63,6.12,1,4.63,6.12
+2023-01-07,Frozen Pizza,Frozen Foods,3.7,9.09,2,7.4,18.18
+2023-01-07,Cola,Beverages,5.53,8.78,2,11.06,17.56
+2023-01-07,Laundry Detergent,Cleaners,5.51,6.96,7,38.57,48.72
+2023-01-07,Whole Wheat Bread,Bread/Bakery,3.97,9.82,5,19.85,49.1
+2023-01-07,Shampoo,Personal Care,1.79,8.14,9,16.11,73.26
+2023-01-07,Chocolate Bar,Other,4.47,5.67,4,17.88,22.68
+2023-01-07,Chicken Breast,Meat,1.28,6.4,2,2.56,12.8
+2023-01-07,Frozen Pizza,Frozen Foods,6.33,10.23,1,6.33,10.23
+2023-01-07,Chicken Breast,Meat,4.93,7.47,1,4.93,7.47
+2023-01-07,Shampoo,Personal Care,2.86,8.37,5,14.3,41.85
+2023-01-07,Chicken Breast,Meat,4.67,5.35,8,37.36,42.8
+2023-01-07,Toilet Paper,Paper Goods,9.62,5.67,9,86.58,51.03
+2023-01-07,Laundry Detergent,Cleaners,5.33,7.98,5,26.65,39.9
+2023-01-07,Milk,Dairy,1.86,7.15,2,3.72,14.3
+2023-01-07,Shampoo,Personal Care,3.75,5.89,3,11.25,17.67
+2023-01-07,Toilet Paper,Paper Goods,4.01,6.66,7,28.07,46.62
+2023-01-07,Cola,Beverages,10.0,7.94,1,10.0,7.94
+2023-01-07,Chocolate Bar,Other,1.34,13.33,1,1.34,13.33
+2023-01-07,Toilet Paper,Paper Goods,4.83,8.89,8,38.64,71.12
+2023-01-07,Shampoo,Personal Care,8.1,10.59,2,16.2,21.18
+2023-01-07,Shampoo,Personal Care,2.01,5.57,9,18.09,50.13
+2023-01-07,Milk,Dairy,6.09,9.17,5,30.45,45.85
+2023-01-07,Whole Wheat Bread,Bread/Bakery,1.5,4.49,8,12.0,35.92
+2023-01-07,Chicken Breast,Meat,5.09,5.74,5,25.45,28.7
+2023-01-07,Chicken Breast,Meat,5.09,9.06,3,15.27,27.18
+2023-01-07,Chocolate Bar,Other,8.73,8.64,8,69.84,69.12
+2023-01-07,Cola,Beverages,5.48,7.61,8,43.84,60.88
+2023-01-07,Cola,Beverages,4.47,6.46,9,40.23,58.14
+2023-01-08,Frozen Pizza,Frozen Foods,7.76,8.3,7,54.32,58.1
+2023-01-08,Chicken Breast,Meat,4.26,5.33,7,29.82,37.31
+2023-01-08,Whole Wheat Bread,Bread/Bakery,5.84,7.8,7,40.88,54.6
+2023-01-08,Whole Wheat Bread,Bread/Bakery,6.64,4.02,1,6.64,4.02
+2023-01-08,Shampoo,Personal Care,2.28,8.49,8,18.24,67.92
+2023-01-08,Milk,Dairy,4.22,5.66,7,29.54,39.62
+2023-01-08,Chocolate Bar,Other,7.37,6.53,5,36.85,32.65
+2023-01-08,Apples,Produce,5.35,7.82,2,10.7,15.64
+2023-01-08,Frozen Pizza,Frozen Foods,7.15,4.95,6,42.9,29.7
+2023-01-08,Cola,Beverages,1.38,8.93,8,11.04,71.44
+2023-01-08,Whole Wheat Bread,Bread/Bakery,5.73,5.95,7,40.11,41.65
+2023-01-08,Cola,Beverages,4.74,2.93,3,14.22,8.79
+2023-01-08,Chocolate Bar,Other,6.36,6.9,3,19.08,20.7
+2023-01-08,Shampoo,Personal Care,5.88,6.0,4,23.52,24.0
+2023-01-08,Whole Wheat Bread,Bread/Bakery,3.55,8.46,3,10.65,25.38
+2023-01-08,Cola,Beverages,5.86,7.49,5,29.3,37.45
+2023-01-08,Frozen Pizza,Frozen Foods,1.95,5.62,3,5.85,16.86
+2023-01-08,Cola,Beverages,7.33,5.14,2,14.66,10.28
+2023-01-08,Milk,Dairy,5.15,6.54,2,10.3,13.08
+2023-01-08,Toilet Paper,Paper Goods,4.16,6.04,5,20.8,30.2
+2023-01-08,Toilet Paper,Paper Goods,6.14,7.9,4,24.56,31.6
+2023-01-08,Laundry Detergent,Cleaners,3.11,7.65,5,15.55,38.25
+2023-01-08,Toilet Paper,Paper Goods,5.39,8.42,9,48.51,75.78
+2023-01-08,Laundry Detergent,Cleaners,5.75,5.49,4,23.0,21.96
+2023-01-08,Shampoo,Personal Care,4.92,4.14,6,29.52,24.84
+2023-01-08,Apples,Produce,6.78,3.56,8,54.24,28.48
+2023-01-08,Cola,Beverages,4.1,2.15,6,24.6,12.9
+2023-01-08,Shampoo,Personal Care,5.74,7.96,8,45.92,63.68
+2023-01-08,Apples,Produce,3.76,7.87,9,33.84,70.83
+2023-01-08,Apples,Produce,8.01,8.75,8,64.08,70.0
+2023-01-08,Whole Wheat Bread,Bread/Bakery,5.42,2.92,1,5.42,2.92
+2023-01-08,Shampoo,Personal Care,4.46,6.83,4,17.84,27.32
+2023-01-08,Chocolate Bar,Other,3.0,6.44,7,21.0,45.08
+2023-01-08,Chocolate Bar,Other,6.98,8.25,2,13.96,16.5
+2023-01-08,Chocolate Bar,Other,7.8,8.85,6,46.8,53.1
+2023-01-08,Shampoo,Personal Care,8.62,7.72,8,68.96,61.76
+2023-01-08,Toilet Paper,Paper Goods,6.79,8.27,7,47.53,57.89
+2023-01-08,Frozen Pizza,Frozen Foods,9.31,9.34,6,55.86,56.04
+2023-01-08,Chocolate Bar,Other,3.84,6.95,2,7.68,13.9
+2023-01-09,Laundry Detergent,Cleaners,4.4,11.33,3,13.2,33.99
+2023-01-09,Chocolate Bar,Other,4.29,2.95,8,34.32,23.6
+2023-01-09,Laundry Detergent,Cleaners,3.87,6.84,2,7.74,13.68
+2023-01-09,Apples,Produce,3.13,8.51,8,25.04,68.08
+2023-01-09,Shampoo,Personal Care,3.31,6.97,3,9.93,20.91
+2023-01-09,Milk,Dairy,4.18,4.18,1,4.18,4.18
+2023-01-09,Laundry Detergent,Cleaners,7.18,6.78,8,57.44,54.24
+2023-01-09,Frozen Pizza,Frozen Foods,7.77,8.51,4,31.08,34.04
+2023-01-09,Toilet Paper,Paper Goods,6.9,12.89,9,62.1,116.01
+2023-01-09,Frozen Pizza,Frozen Foods,4.83,6.25,4,19.32,25.0
+2023-01-09,Whole Wheat Bread,Bread/Bakery,7.63,7.88,7,53.41,55.16
+2023-01-09,Chocolate Bar,Other,2.45,3.9,2,4.9,7.8
+2023-01-09,Toilet Paper,Paper Goods,4.02,8.25,8,32.16,66.0
+2023-01-09,Frozen Pizza,Frozen Foods,5.65,6.42,9,50.85,57.78
+2023-01-09,Apples,Produce,4.69,9.12,8,37.52,72.96
+2023-01-09,Laundry Detergent,Cleaners,7.3,3.52,6,43.8,21.12
+2023-01-09,Cola,Beverages,5.75,6.83,2,11.5,13.66
+2023-01-09,Milk,Dairy,2.41,9.32,8,19.28,74.56
+2023-01-09,Toilet Paper,Paper Goods,2.19,5.89,3,6.57,17.67
+2023-01-09,Apples,Produce,5.15,4.43,9,46.35,39.87
+2023-01-09,Cola,Beverages,9.38,4.48,1,9.38,4.48
+2023-01-09,Shampoo,Personal Care,4.3,6.3,9,38.7,56.7
+2023-01-09,Chicken Breast,Meat,6.01,2.69,1,6.01,2.69
+2023-01-09,Cola,Beverages,4.06,10.58,6,24.36,63.48
+2023-01-09,Frozen Pizza,Frozen Foods,4.86,6.93,5,24.3,34.65
+2023-01-09,Frozen Pizza,Frozen Foods,5.3,6.04,3,15.9,18.12
+2023-01-09,Apples,Produce,5.38,5.21,4,21.52,20.84
+2023-01-09,Chicken Breast,Meat,8.94,6.57,2,17.88,13.14
+2023-01-09,Shampoo,Personal Care,6.83,7.69,8,54.64,61.52
+2023-01-09,Whole Wheat Bread,Bread/Bakery,5.86,2.82,7,41.02,19.74
+2023-01-09,Frozen Pizza,Frozen Foods,3.12,8.29,7,21.84,58.03
+2023-01-09,Toilet Paper,Paper Goods,3.75,10.83,5,18.75,54.15
+2023-01-09,Apples,Produce,6.61,4.56,7,46.27,31.92
+2023-01-09,Chocolate Bar,Other,4.79,6.95,2,9.58,13.9
+2023-01-09,Cola,Beverages,5.37,7.33,1,5.37,7.33
+2023-01-09,Toilet Paper,Paper Goods,6.24,7.28,5,31.2,36.4
+2023-01-09,Chicken Breast,Meat,1.3,8.89,2,2.6,17.78
+2023-01-09,Whole Wheat Bread,Bread/Bakery,1.77,8.86,1,1.77,8.86
+2023-01-09,Shampoo,Personal Care,4.48,5.98,4,17.92,23.92
+2023-01-09,Whole Wheat Bread,Bread/Bakery,1.63,5.13,6,9.78,30.78
+2023-01-09,Milk,Dairy,6.19,8.4,9,55.71,75.6
+2023-01-10,Cola,Beverages,5.24,4.94,9,47.16,44.46
+2023-01-10,Chicken Breast,Meat,2.81,4.12,7,19.67,28.84
+2023-01-10,Chicken Breast,Meat,6.75,2.69,1,6.75,2.69
+2023-01-10,Cola,Beverages,0.7,10.54,6,4.2,63.24
+2023-01-10,Chocolate Bar,Other,2.62,7.62,2,5.24,15.24
+2023-01-10,Shampoo,Personal Care,6.96,6.35,2,13.92,12.7
+2023-01-10,Apples,Produce,1.74,7.34,4,6.96,29.36
+2023-01-10,Laundry Detergent,Cleaners,6.19,8.71,5,30.95,43.55
+2023-01-10,Laundry Detergent,Cleaners,6.83,6.68,5,34.15,33.4
+2023-01-10,Shampoo,Personal Care,2.63,10.06,4,10.52,40.24
+2023-01-10,Chicken Breast,Meat,2.2,6.81,4,8.8,27.24
+2023-01-10,Chicken Breast,Meat,3.02,4.79,3,9.06,14.37
+2023-01-10,Toilet Paper,Paper Goods,6.84,3.86,2,13.68,7.72
+2023-01-10,Whole Wheat Bread,Bread/Bakery,3.79,3.83,9,34.11,34.47
+2023-01-10,Laundry Detergent,Cleaners,3.06,8.1,7,21.42,56.7
+2023-01-10,Toilet Paper,Paper Goods,3.87,8.06,8,30.96,64.48
+2023-01-10,Frozen Pizza,Frozen Foods,3.35,6.7,6,20.1,40.2
+2023-01-10,Cola,Beverages,5.95,2.45,7,41.65,17.15
+2023-01-10,Apples,Produce,5.1,7.08,9,45.9,63.72
+2023-01-10,Chocolate Bar,Other,6.0,4.41,9,54.0,39.69
+2023-01-10,Chocolate Bar,Other,4.45,8.5,5,22.25,42.5
+2023-01-10,Frozen Pizza,Frozen Foods,6.61,5.88,7,46.27,41.16
+2023-01-10,Chocolate Bar,Other,6.17,8.36,1,6.17,8.36
+2023-01-10,Laundry Detergent,Cleaners,2.62,7.62,3,7.86,22.86
+2023-01-10,Whole Wheat Bread,Bread/Bakery,9.94,3.22,6,59.64,19.32
+2023-01-10,Chicken Breast,Meat,7.45,10.25,9,67.05,92.25
+2023-01-10,Shampoo,Personal Care,5.63,7.0,3,16.89,21.0
+2023-01-10,Laundry Detergent,Cleaners,3.39,10.28,6,20.34,61.68
+2023-01-10,Laundry Detergent,Cleaners,7.09,5.96,4,28.36,23.84
+2023-01-10,Chocolate Bar,Other,6.36,6.45,4,25.44,25.8
+2023-01-10,Toilet Paper,Paper Goods,7.26,10.43,9,65.34,93.87
+2023-01-10,Toilet Paper,Paper Goods,2.13,4.56,7,14.91,31.92
+2023-01-10,Frozen Pizza,Frozen Foods,7.48,6.57,5,37.4,32.85
+2023-01-10,Chicken Breast,Meat,6.26,3.89,3,18.78,11.67
+2023-01-10,Apples,Produce,4.51,3.92,6,27.06,23.52
+2023-01-10,Apples,Produce,4.71,5.94,6,28.26,35.64
+2023-01-10,Cola,Beverages,4.98,7.23,4,19.92,28.92
+2023-01-10,Toilet Paper,Paper Goods,3.35,7.32,5,16.75,36.6
+2023-01-10,Shampoo,Personal Care,4.35,4.62,9,39.15,41.58
+2023-01-10,Laundry Detergent,Cleaners,3.53,9.47,8,28.24,75.76
+2023-01-10,Frozen Pizza,Frozen Foods,0.33,6.0,7,2.31,42.0
+2023-01-10,Milk,Dairy,5.15,8.56,9,46.35,77.04
+2023-01-10,Chicken Breast,Meat,4.53,6.21,8,36.24,49.68
+2023-01-10,Laundry Detergent,Cleaners,5.6,9.0,6,33.6,54.0
+2023-01-10,Frozen Pizza,Frozen Foods,2.86,5.22,2,5.72,10.44
+2023-01-10,Shampoo,Personal Care,1.33,8.02,4,5.32,32.08
+2023-01-10,Laundry Detergent,Cleaners,5.9,5.94,6,35.4,35.64
+2023-01-10,Chicken Breast,Meat,5.05,2.06,1,5.05,2.06
+2023-01-11,Apples,Produce,4.12,9.33,8,32.96,74.64
+2023-01-11,Chocolate Bar,Other,5.53,7.64,7,38.71,53.48
+2023-01-11,Frozen Pizza,Frozen Foods,3.91,8.96,3,11.73,26.88
+2023-01-11,Whole Wheat Bread,Bread/Bakery,4.13,5.91,4,16.52,23.64
+2023-01-11,Whole Wheat Bread,Bread/Bakery,7.17,7.95,9,64.53,71.55
+2023-01-11,Apples,Produce,6.82,3.8,1,6.82,3.8
+2023-01-11,Apples,Produce,3.97,8.86,3,11.91,26.58
+2023-01-11,Shampoo,Personal Care,6.02,9.0,2,12.04,18.0
+2023-01-11,Toilet Paper,Paper Goods,6.9,0.22,4,27.6,0.88
+2023-01-11,Frozen Pizza,Frozen Foods,3.12,6.71,6,18.72,40.26
+2023-01-11,Whole Wheat Bread,Bread/Bakery,3.07,7.83,3,9.21,23.49
+2023-01-11,Chicken Breast,Meat,4.57,9.98,2,9.14,19.96
+2023-01-11,Whole Wheat Bread,Bread/Bakery,5.3,6.33,9,47.7,56.97
+2023-01-11,Laundry Detergent,Cleaners,3.87,6.18,9,34.83,55.62
+2023-01-11,Milk,Dairy,6.1,5.16,1,6.1,5.16
+2023-01-11,Frozen Pizza,Frozen Foods,2.45,8.25,5,12.25,41.25
+2023-01-11,Laundry Detergent,Cleaners,3.81,5.99,4,15.24,23.96
+2023-01-11,Apples,Produce,2.91,6.58,4,11.64,26.32
+2023-01-11,Milk,Dairy,2.66,3.4,7,18.62,23.8
+2023-01-11,Chicken Breast,Meat,5.84,6.8,7,40.88,47.6
+2023-01-11,Whole Wheat Bread,Bread/Bakery,4.53,4.91,6,27.18,29.46
+2023-01-11,Chicken Breast,Meat,3.91,7.78,7,27.37,54.46
+2023-01-11,Chicken Breast,Meat,3.01,6.94,5,15.05,34.7
+2023-01-11,Frozen Pizza,Frozen Foods,3.63,6.08,4,14.52,24.32
+2023-01-11,Whole Wheat Bread,Bread/Bakery,7.34,5.27,8,58.72,42.16
+2023-01-11,Milk,Dairy,2.26,3.77,6,13.56,22.62
+2023-01-11,Chocolate Bar,Other,5.57,7.41,9,50.13,66.69
+2023-01-11,Cola,Beverages,5.93,7.33,2,11.86,14.66
+2023-01-11,Cola,Beverages,4.82,8.84,7,33.74,61.88
+2023-01-11,Whole Wheat Bread,Bread/Bakery,3.1,2.68,1,3.1,2.68
+2023-01-11,Cola,Beverages,5.06,5.49,3,15.18,16.47
+2023-01-11,Chicken Breast,Meat,5.18,10.44,5,25.9,52.2
+2023-01-11,Toilet Paper,Paper Goods,4.27,7.37,8,34.16,58.96
+2023-01-11,Milk,Dairy,3.4,9.6,4,13.6,38.4
+2023-01-11,Frozen Pizza,Frozen Foods,6.36,9.32,3,19.08,27.96
+2023-01-11,Chocolate Bar,Other,5.57,5.58,8,44.56,44.64
+2023-01-11,Chocolate Bar,Other,6.21,9.62,2,12.42,19.24
+2023-01-11,Whole Wheat Bread,Bread/Bakery,4.58,6.77,9,41.22,60.93
+2023-01-11,Chocolate Bar,Other,6.92,6.89,5,34.6,34.45
+2023-01-12,Toilet Paper,Paper Goods,4.93,4.97,2,9.86,9.94
+2023-01-12,Chocolate Bar,Other,6.11,6.58,7,42.77,46.06
+2023-01-12,Shampoo,Personal Care,2.91,3.07,9,26.19,27.63
+2023-01-12,Whole Wheat Bread,Bread/Bakery,4.56,6.45,1,4.56,6.45
+2023-01-12,Toilet Paper,Paper Goods,6.49,6.28,9,58.41,56.52
+2023-01-12,Whole Wheat Bread,Bread/Bakery,2.52,8.21,8,20.16,65.68
+2023-01-12,Toilet Paper,Paper Goods,2.41,7.47,6,14.46,44.82
+2023-01-12,Apples,Produce,5.8,5.7,2,11.6,11.4
+2023-01-12,Milk,Dairy,4.15,5.12,6,24.9,30.72
+2023-01-12,Chicken Breast,Meat,5.48,12.2,6,32.88,73.2
+2023-01-12,Milk,Dairy,7.0,7.41,5,35.0,37.05
+2023-01-12,Toilet Paper,Paper Goods,4.5,6.96,1,4.5,6.96
+2023-01-12,Chicken Breast,Meat,4.29,8.22,3,12.87,24.66
+2023-01-12,Chocolate Bar,Other,2.41,9.16,5,12.05,45.8
+2023-01-12,Laundry Detergent,Cleaners,8.09,8.89,9,72.81,80.01
+2023-01-12,Frozen Pizza,Frozen Foods,7.39,7.17,6,44.34,43.02
+2023-01-12,Cola,Beverages,6.55,9.24,3,19.65,27.72
+2023-01-12,Laundry Detergent,Cleaners,5.46,0.3,4,21.84,1.2
+2023-01-12,Frozen Pizza,Frozen Foods,6.18,7.68,3,18.54,23.04
+2023-01-12,Chocolate Bar,Other,2.16,3.48,8,17.28,27.84
+2023-01-12,Laundry Detergent,Cleaners,7.33,5.85,4,29.32,23.4
+2023-01-12,Cola,Beverages,3.9,12.12,3,11.7,36.36
+2023-01-12,Toilet Paper,Paper Goods,4.56,6.37,4,18.24,25.48
+2023-01-12,Frozen Pizza,Frozen Foods,4.96,5.67,2,9.92,11.34
+2023-01-12,Milk,Dairy,6.56,5.9,1,6.56,5.9
+2023-01-12,Milk,Dairy,4.66,6.09,6,27.96,36.54
+2023-01-12,Chicken Breast,Meat,5.18,9.96,4,20.72,39.84
+2023-01-12,Laundry Detergent,Cleaners,3.24,8.56,4,12.96,34.24
+2023-01-12,Cola,Beverages,8.03,8.26,9,72.27,74.34
+2023-01-12,Apples,Produce,2.95,10.71,4,11.8,42.84
+2023-01-12,Frozen Pizza,Frozen Foods,4.3,7.52,6,25.8,45.12
+2023-01-12,Laundry Detergent,Cleaners,8.77,10.09,9,78.93,90.81
+2023-01-12,Frozen Pizza,Frozen Foods,2.18,4.65,1,2.18,4.65
+2023-01-13,Apples,Produce,1.21,7.34,5,6.05,36.7
+2023-01-13,Milk,Dairy,4.07,3.81,3,12.21,11.43
+2023-01-13,Chicken Breast,Meat,4.26,7.8,1,4.26,7.8
+2023-01-13,Chicken Breast,Meat,2.66,1.26,6,15.96,7.56
+2023-01-13,Chocolate Bar,Other,5.41,6.24,2,10.82,12.48
+2023-01-13,Milk,Dairy,8.32,6.09,6,49.92,36.54
+2023-01-13,Shampoo,Personal Care,5.71,4.8,9,51.39,43.2
+2023-01-13,Frozen Pizza,Frozen Foods,5.71,7.24,8,45.68,57.92
+2023-01-13,Chocolate Bar,Other,3.05,5.22,3,9.15,15.66
+2023-01-13,Laundry Detergent,Cleaners,4.55,7.73,6,27.3,46.38
+2023-01-13,Chocolate Bar,Other,4.04,8.43,9,36.36,75.87
+2023-01-13,Frozen Pizza,Frozen Foods,0.15,8.77,7,1.05,61.39
+2023-01-13,Apples,Produce,5.49,7.17,7,38.43,50.19
+2023-01-13,Chicken Breast,Meat,4.78,5.79,9,43.02,52.11
+2023-01-13,Chicken Breast,Meat,2.78,8.13,8,22.24,65.04
+2023-01-13,Cola,Beverages,5.93,6.93,9,53.37,62.37
+2023-01-13,Shampoo,Personal Care,3.35,6.67,6,20.1,40.02
+2023-01-13,Laundry Detergent,Cleaners,5.75,7.07,2,11.5,14.14
+2023-01-13,Chocolate Bar,Other,7.88,7.42,1,7.88,7.42
+2023-01-13,Cola,Beverages,2.32,8.1,2,4.64,16.2
+2023-01-13,Cola,Beverages,2.81,6.56,6,16.86,39.36
+2023-01-13,Shampoo,Personal Care,4.1,11.02,3,12.3,33.06
+2023-01-13,Laundry Detergent,Cleaners,3.58,7.15,8,28.64,57.2
+2023-01-13,Apples,Produce,4.63,9.75,3,13.89,29.25
+2023-01-13,Cola,Beverages,3.71,5.4,4,14.84,21.6
+2023-01-13,Chocolate Bar,Other,7.32,5.46,6,43.92,32.76
+2023-01-13,Toilet Paper,Paper Goods,5.72,5.33,4,22.88,21.32
+2023-01-13,Shampoo,Personal Care,8.17,7.76,1,8.17,7.76
+2023-01-13,Whole Wheat Bread,Bread/Bakery,4.88,5.53,8,39.04,44.24
+2023-01-13,Cola,Beverages,7.53,6.07,7,52.71,42.49
+2023-01-13,Frozen Pizza,Frozen Foods,0.59,4.93,3,1.77,14.79
+2023-01-13,Chicken Breast,Meat,1.34,7.4,9,12.06,66.6
+2023-01-13,Frozen Pizza,Frozen Foods,3.11,4.75,9,27.99,42.75
+2023-01-13,Toilet Paper,Paper Goods,-0.52,9.13,6,-3.12,54.78
+2023-01-13,Whole Wheat Bread,Bread/Bakery,6.67,6.14,3,20.01,18.42
+2023-01-13,Whole Wheat Bread,Bread/Bakery,5.05,4.43,1,5.05,4.43
+2023-01-13,Laundry Detergent,Cleaners,3.09,7.85,4,12.36,31.4
+2023-01-13,Apples,Produce,5.68,5.92,7,39.76,41.44
+2023-01-13,Cola,Beverages,5.53,6.91,5,27.65,34.55
+2023-01-13,Whole Wheat Bread,Bread/Bakery,2.62,6.49,5,13.1,32.45
+2023-01-13,Shampoo,Personal Care,4.0,8.12,5,20.0,40.6
+2023-01-13,Milk,Dairy,5.68,6.41,4,22.72,25.64
+2023-01-14,Whole Wheat Bread,Bread/Bakery,5.57,6.14,9,50.13,55.26
+2023-01-14,Whole Wheat Bread,Bread/Bakery,4.67,9.61,5,23.35,48.05
+2023-01-14,Toilet Paper,Paper Goods,7.59,6.95,5,37.95,34.75
+2023-01-14,Toilet Paper,Paper Goods,5.49,6.08,3,16.47,18.24
+2023-01-14,Frozen Pizza,Frozen Foods,5.5,7.84,2,11.0,15.68
+2023-01-14,Chocolate Bar,Other,2.72,11.03,6,16.32,66.18
+2023-01-14,Cola,Beverages,4.79,9.45,3,14.37,28.35
+2023-01-14,Cola,Beverages,5.74,5.42,2,11.48,10.84
+2023-01-14,Milk,Dairy,4.07,7.4,7,28.49,51.8
+2023-01-14,Apples,Produce,4.2,8.05,8,33.6,64.4
+2023-01-14,Laundry Detergent,Cleaners,6.74,4.31,4,26.96,17.24
+2023-01-14,Chocolate Bar,Other,1.13,7.25,5,5.65,36.25
+2023-01-14,Milk,Dairy,3.99,9.89,4,15.96,39.56
+2023-01-14,Frozen Pizza,Frozen Foods,5.7,7.98,3,17.1,23.94
+2023-01-14,Whole Wheat Bread,Bread/Bakery,6.72,7.69,7,47.04,53.83
+2023-01-14,Whole Wheat Bread,Bread/Bakery,1.59,2.45,4,6.36,9.8
+2023-01-14,Chicken Breast,Meat,0.65,8.69,4,2.6,34.76
+2023-01-14,Cola,Beverages,4.56,7.84,9,41.04,70.56
+2023-01-14,Milk,Dairy,6.69,7.99,7,46.83,55.93
+2023-01-14,Shampoo,Personal Care,6.78,5.95,3,20.34,17.85
+2023-01-14,Frozen Pizza,Frozen Foods,5.68,5.71,4,22.72,22.84
+2023-01-14,Toilet Paper,Paper Goods,1.6,8.06,5,8.0,40.3
+2023-01-14,Milk,Dairy,6.49,5.23,9,58.41,47.07
+2023-01-14,Frozen Pizza,Frozen Foods,4.29,8.59,6,25.74,51.54
+2023-01-14,Shampoo,Personal Care,7.48,7.23,3,22.44,21.69
+2023-01-14,Whole Wheat Bread,Bread/Bakery,8.72,8.72,4,34.88,34.88
+2023-01-14,Chicken Breast,Meat,3.15,7.48,9,28.35,67.32
+2023-01-14,Shampoo,Personal Care,6.95,8.0,8,55.6,64.0
+2023-01-14,Cola,Beverages,2.76,6.78,3,8.28,20.34
+2023-01-14,Chocolate Bar,Other,4.3,6.29,5,21.5,31.45
+2023-01-14,Milk,Dairy,7.86,6.46,3,23.58,19.38
+2023-01-14,Frozen Pizza,Frozen Foods,3.38,7.78,4,13.52,31.12
+2023-01-14,Apples,Produce,3.21,5.14,7,22.47,35.98
+2023-01-14,Shampoo,Personal Care,9.58,7.21,6,57.48,43.26
+2023-01-14,Apples,Produce,3.52,4.36,6,21.12,26.16
+2023-01-15,Milk,Dairy,4.56,2.86,8,36.48,22.88
+2023-01-15,Milk,Dairy,2.42,1.74,1,2.42,1.74
+2023-01-15,Apples,Produce,5.6,7.58,1,5.6,7.58
+2023-01-15,Chocolate Bar,Other,0.23,4.12,6,1.38,24.72
+2023-01-15,Shampoo,Personal Care,3.44,6.61,9,30.96,59.49
+2023-01-15,Cola,Beverages,4.36,5.41,7,30.52,37.87
+2023-01-15,Laundry Detergent,Cleaners,4.96,9.15,3,14.88,27.45
+2023-01-15,Cola,Beverages,7.96,5.58,8,63.68,44.64
+2023-01-15,Toilet Paper,Paper Goods,2.64,8.67,1,2.64,8.67
+2023-01-15,Chocolate Bar,Other,5.29,5.77,2,10.58,11.54
+2023-01-15,Whole Wheat Bread,Bread/Bakery,4.46,5.22,4,17.84,20.88
+2023-01-15,Whole Wheat Bread,Bread/Bakery,5.39,5.36,8,43.12,42.88
+2023-01-15,Frozen Pizza,Frozen Foods,4.59,8.72,3,13.77,26.16
+2023-01-15,Shampoo,Personal Care,5.34,7.88,9,48.06,70.92
+2023-01-15,Chocolate Bar,Other,7.35,3.53,2,14.7,7.06
+2023-01-15,Milk,Dairy,5.41,8.52,3,16.23,25.56
+2023-01-15,Frozen Pizza,Frozen Foods,7.66,8.52,6,45.96,51.12
+2023-01-15,Milk,Dairy,2.71,7.22,1,2.71,7.22
+2023-01-15,Shampoo,Personal Care,1.61,5.71,1,1.61,5.71
+2023-01-15,Laundry Detergent,Cleaners,3.9,7.19,5,19.5,35.95
+2023-01-15,Cola,Beverages,4.65,4.03,8,37.2,32.24
+2023-01-15,Shampoo,Personal Care,4.66,5.7,2,9.32,11.4
+2023-01-15,Frozen Pizza,Frozen Foods,2.61,8.84,5,13.05,44.2
+2023-01-15,Apples,Produce,4.47,9.87,2,8.94,19.74
+2023-01-15,Milk,Dairy,9.38,4.24,9,84.42,38.16
+2023-01-15,Laundry Detergent,Cleaners,6.59,3.5,9,59.31,31.5
+2023-01-15,Apples,Produce,7.07,9.25,7,49.49,64.75
+2023-01-15,Whole Wheat Bread,Bread/Bakery,4.49,4.57,4,17.96,18.28
+2023-01-15,Chicken Breast,Meat,4.38,8.56,4,17.52,34.24
+2023-01-15,Milk,Dairy,5.1,6.68,3,15.3,20.04
+2023-01-15,Cola,Beverages,7.44,7.22,8,59.52,57.76
+2023-01-15,Apples,Produce,8.78,6.08,2,17.56,12.16
+2023-01-15,Chicken Breast,Meat,2.77,7.2,6,16.62,43.2
+2023-01-15,Chocolate Bar,Other,1.79,5.2,5,8.95,26.0
+2023-01-15,Chocolate Bar,Other,4.81,7.46,7,33.67,52.22
+2023-01-15,Apples,Produce,7.35,7.74,1,7.35,7.74
+2023-01-15,Frozen Pizza,Frozen Foods,10.27,3.39,6,61.62,20.34
+2023-01-16,Milk,Dairy,2.87,5.25,3,8.61,15.75
+2023-01-16,Chocolate Bar,Other,4.66,6.06,5,23.3,30.3
+2023-01-16,Laundry Detergent,Cleaners,2.52,7.33,8,20.16,58.64
+2023-01-16,Milk,Dairy,5.65,6.28,4,22.6,25.12
+2023-01-16,Milk,Dairy,6.42,8.71,2,12.84,17.42
+2023-01-16,Toilet Paper,Paper Goods,7.13,5.73,3,21.39,17.19
+2023-01-16,Chicken Breast,Meat,3.61,7.91,5,18.05,39.55
+2023-01-16,Cola,Beverages,6.05,7.54,5,30.25,37.7
+2023-01-16,Whole Wheat Bread,Bread/Bakery,5.53,10.54,6,33.18,63.24
+2023-01-16,Chicken Breast,Meat,5.65,10.26,5,28.25,51.3
+2023-01-16,Cola,Beverages,4.28,10.94,6,25.68,65.64
+2023-01-16,Cola,Beverages,5.04,8.31,4,20.16,33.24
+2023-01-16,Apples,Produce,1.45,9.52,6,8.7,57.12
+2023-01-16,Cola,Beverages,1.37,10.87,9,12.33,97.83
+2023-01-16,Milk,Dairy,7.11,7.45,2,14.22,14.9
+2023-01-16,Milk,Dairy,8.04,10.39,7,56.28,72.73
+2023-01-16,Milk,Dairy,4.61,6.7,4,18.44,26.8
+2023-01-16,Cola,Beverages,2.23,8.93,8,17.84,71.44
+2023-01-16,Milk,Dairy,2.8,5.3,5,14.0,26.5
+2023-01-16,Laundry Detergent,Cleaners,4.96,6.22,6,29.76,37.32
+2023-01-16,Milk,Dairy,3.45,7.81,5,17.25,39.05
+2023-01-16,Whole Wheat Bread,Bread/Bakery,7.43,5.26,9,66.87,47.34
+2023-01-16,Milk,Dairy,3.93,8.71,7,27.51,60.97
+2023-01-16,Milk,Dairy,6.45,8.03,1,6.45,8.03
+2023-01-16,Chicken Breast,Meat,5.93,7.97,1,5.93,7.97
+2023-01-16,Frozen Pizza,Frozen Foods,3.76,7.63,7,26.32,53.41
+2023-01-16,Shampoo,Personal Care,3.08,8.95,4,12.32,35.8
+2023-01-16,Apples,Produce,5.94,3.29,2,11.88,6.58
+2023-01-16,Milk,Dairy,1.21,7.43,8,9.68,59.44
+2023-01-16,Cola,Beverages,7.91,7.01,6,47.46,42.06
+2023-01-16,Whole Wheat Bread,Bread/Bakery,4.68,5.58,2,9.36,11.16
+2023-01-16,Laundry Detergent,Cleaners,1.81,5.48,8,14.48,43.84
+2023-01-16,Laundry Detergent,Cleaners,4.44,8.27,5,22.2,41.35
+2023-01-16,Laundry Detergent,Cleaners,6.27,4.52,5,31.35,22.6
+2023-01-16,Chicken Breast,Meat,4.19,4.23,9,37.71,38.07
+2023-01-16,Apples,Produce,6.2,5.3,4,24.8,21.2
+2023-01-16,Toilet Paper,Paper Goods,9.1,8.64,2,18.2,17.28
+2023-01-16,Whole Wheat Bread,Bread/Bakery,6.69,8.12,8,53.52,64.96
+2023-01-16,Apples,Produce,2.99,7.34,7,20.93,51.38
+2023-01-16,Toilet Paper,Paper Goods,4.95,3.46,2,9.9,6.92
+2023-01-16,Whole Wheat Bread,Bread/Bakery,6.11,8.62,9,54.99,77.58
+2023-01-16,Cola,Beverages,3.75,7.03,6,22.5,42.18
+2023-01-16,Apples,Produce,5.38,8.8,8,43.04,70.4
+2023-01-16,Shampoo,Personal Care,5.96,6.65,9,53.64,59.85
+2023-01-16,Cola,Beverages,5.37,4.89,2,10.74,9.78
+2023-01-16,Frozen Pizza,Frozen Foods,5.53,7.39,3,16.59,22.17
+2023-01-16,Cola,Beverages,6.21,6.66,3,18.63,19.98
+2023-01-16,Chicken Breast,Meat,6.48,7.22,9,58.32,64.98
+2023-01-17,Laundry Detergent,Cleaners,6.1,6.28,5,30.5,31.4
+2023-01-17,Cola,Beverages,3.68,6.21,4,14.72,24.84
+2023-01-17,Shampoo,Personal Care,3.76,6.37,3,11.28,19.11
+2023-01-17,Milk,Dairy,4.12,7.28,5,20.6,36.4
+2023-01-17,Apples,Produce,5.0,8.2,9,45.0,73.8
+2023-01-17,Milk,Dairy,2.12,6.58,3,6.36,19.74
+2023-01-17,Shampoo,Personal Care,7.47,6.36,2,14.94,12.72
+2023-01-17,Shampoo,Personal Care,4.26,11.21,8,34.08,89.68
+2023-01-17,Apples,Produce,6.34,4.86,2,12.68,9.72
+2023-01-17,Shampoo,Personal Care,5.75,5.2,2,11.5,10.4
+2023-01-17,Milk,Dairy,7.15,4.26,5,35.75,21.3
+2023-01-17,Toilet Paper,Paper Goods,9.93,5.02,5,49.65,25.1
+2023-01-17,Milk,Dairy,7.0,8.03,6,42.0,48.18
+2023-01-17,Chocolate Bar,Other,3.15,7.2,5,15.75,36.0
+2023-01-17,Apples,Produce,4.54,5.01,9,40.86,45.09
+2023-01-17,Milk,Dairy,6.56,2.18,6,39.36,13.08
+2023-01-17,Frozen Pizza,Frozen Foods,4.96,6.47,4,19.84,25.88
+2023-01-17,Chocolate Bar,Other,9.04,7.43,4,36.16,29.72
+2023-01-17,Laundry Detergent,Cleaners,6.43,8.44,8,51.44,67.52
+2023-01-17,Chocolate Bar,Other,5.46,9.2,9,49.14,82.8
+2023-01-17,Whole Wheat Bread,Bread/Bakery,4.48,4.42,5,22.4,22.1
+2023-01-17,Shampoo,Personal Care,5.2,10.1,4,20.8,40.4
+2023-01-17,Shampoo,Personal Care,6.98,4.3,7,48.86,30.1
+2023-01-17,Frozen Pizza,Frozen Foods,5.35,7.49,9,48.15,67.41
+2023-01-17,Toilet Paper,Paper Goods,0.45,5.13,4,1.8,20.52
+2023-01-17,Toilet Paper,Paper Goods,4.79,3.71,7,33.53,25.97
+2023-01-17,Chocolate Bar,Other,5.3,7.05,7,37.1,49.35
+2023-01-17,Chicken Breast,Meat,9.25,7.87,6,55.5,47.22
+2023-01-17,Shampoo,Personal Care,6.32,5.27,7,44.24,36.89
+2023-01-17,Chocolate Bar,Other,2.73,5.12,5,13.65,25.6
+2023-01-17,Toilet Paper,Paper Goods,2.4,10.16,1,2.4,10.16
+2023-01-17,Cola,Beverages,4.7,7.83,6,28.2,46.98
+2023-01-17,Shampoo,Personal Care,5.66,8.24,2,11.32,16.48
+2023-01-17,Chocolate Bar,Other,3.33,11.18,6,19.98,67.08
+2023-01-17,Cola,Beverages,5.08,8.17,5,25.4,40.85
+2023-01-17,Chicken Breast,Meat,6.31,7.37,2,12.62,14.74
+2023-01-17,Chocolate Bar,Other,4.66,4.37,3,13.98,13.11
+2023-01-17,Apples,Produce,2.15,6.47,1,2.15,6.47
+2023-01-17,Cola,Beverages,4.14,8.18,6,24.84,49.08
+2023-01-18,Frozen Pizza,Frozen Foods,1.8,7.92,9,16.2,71.28
+2023-01-18,Whole Wheat Bread,Bread/Bakery,3.57,7.31,6,21.42,43.86
+2023-01-18,Whole Wheat Bread,Bread/Bakery,5.85,7.04,7,40.95,49.28
+2023-01-18,Toilet Paper,Paper Goods,4.83,4.51,4,19.32,18.04
+2023-01-18,Cola,Beverages,7.97,6.56,4,31.88,26.24
+2023-01-18,Toilet Paper,Paper Goods,6.12,7.83,9,55.08,70.47
+2023-01-18,Chicken Breast,Meat,2.5,8.21,8,20.0,65.68
+2023-01-18,Whole Wheat Bread,Bread/Bakery,7.78,7.13,6,46.68,42.78
+2023-01-18,Chicken Breast,Meat,3.89,4.09,4,15.56,16.36
+2023-01-18,Shampoo,Personal Care,4.99,8.23,9,44.91,74.07
+2023-01-18,Laundry Detergent,Cleaners,2.31,3.79,5,11.55,18.95
+2023-01-18,Milk,Dairy,4.83,5.66,1,4.83,5.66
+2023-01-18,Whole Wheat Bread,Bread/Bakery,1.32,10.22,1,1.32,10.22
+2023-01-18,Whole Wheat Bread,Bread/Bakery,5.97,8.32,5,29.85,41.6
+2023-01-18,Chocolate Bar,Other,2.83,8.42,4,11.32,33.68
+2023-01-18,Chicken Breast,Meat,5.98,10.4,5,29.9,52.0
+2023-01-18,Milk,Dairy,6.85,6.05,7,47.95,42.35
+2023-01-18,Laundry Detergent,Cleaners,7.82,6.19,4,31.28,24.76
+2023-01-18,Whole Wheat Bread,Bread/Bakery,5.82,4.35,9,52.38,39.15
+2023-01-18,Milk,Dairy,4.14,7.17,9,37.26,64.53
+2023-01-18,Frozen Pizza,Frozen Foods,6.35,6.27,1,6.35,6.27
+2023-01-18,Milk,Dairy,3.69,9.43,4,14.76,37.72
+2023-01-18,Milk,Dairy,-0.85,9.5,5,-4.25,47.5
+2023-01-18,Toilet Paper,Paper Goods,5.74,6.64,5,28.7,33.2
+2023-01-18,Shampoo,Personal Care,3.65,7.07,8,29.2,56.56
+2023-01-18,Laundry Detergent,Cleaners,6.99,6.67,6,41.94,40.02
+2023-01-18,Frozen Pizza,Frozen Foods,7.43,8.64,5,37.15,43.2
+2023-01-18,Laundry Detergent,Cleaners,6.71,7.47,5,33.55,37.35
+2023-01-18,Shampoo,Personal Care,3.29,5.15,9,29.61,46.35
+2023-01-18,Apples,Produce,2.25,6.07,6,13.5,36.42
+2023-01-18,Chicken Breast,Meat,2.66,7.28,7,18.62,50.96
+2023-01-18,Chocolate Bar,Other,3.34,8.05,9,30.06,72.45
+2023-01-18,Cola,Beverages,6.3,3.99,4,25.2,15.96
+2023-01-18,Shampoo,Personal Care,5.34,4.88,1,5.34,4.88
+2023-01-18,Cola,Beverages,3.31,8.08,1,3.31,8.08
+2023-01-18,Shampoo,Personal Care,2.59,6.64,7,18.13,46.48
+2023-01-18,Apples,Produce,5.46,8.0,7,38.22,56.0
+2023-01-18,Shampoo,Personal Care,6.68,5.77,9,60.12,51.93
+2023-01-19,Apples,Produce,5.88,8.56,7,41.16,59.92
+2023-01-19,Cola,Beverages,4.63,3.07,4,18.52,12.28
+2023-01-19,Frozen Pizza,Frozen Foods,4.41,6.86,4,17.64,27.44
+2023-01-19,Milk,Dairy,4.88,7.91,4,19.52,31.64
+2023-01-19,Toilet Paper,Paper Goods,6.78,8.15,9,61.02,73.35
+2023-01-19,Cola,Beverages,8.64,7.08,6,51.84,42.48
+2023-01-19,Toilet Paper,Paper Goods,5.98,5.95,3,17.94,17.85
+2023-01-19,Milk,Dairy,3.01,6.44,9,27.09,57.96
+2023-01-19,Frozen Pizza,Frozen Foods,7.11,9.99,2,14.22,19.98
+2023-01-19,Toilet Paper,Paper Goods,5.01,9.71,8,40.08,77.68
+2023-01-19,Laundry Detergent,Cleaners,5.85,6.63,2,11.7,13.26
+2023-01-19,Laundry Detergent,Cleaners,4.26,7.29,1,4.26,7.29
+2023-01-19,Chicken Breast,Meat,2.94,4.29,1,2.94,4.29
+2023-01-19,Apples,Produce,7.44,5.26,5,37.2,26.3
+2023-01-19,Apples,Produce,3.54,4.44,2,7.08,8.88
+2023-01-19,Shampoo,Personal Care,2.77,9.47,2,5.54,18.94
+2023-01-19,Laundry Detergent,Cleaners,5.32,8.0,6,31.92,48.0
+2023-01-19,Laundry Detergent,Cleaners,2.63,8.04,3,7.89,24.12
+2023-01-19,Apples,Produce,5.85,6.66,9,52.65,59.94
+2023-01-19,Shampoo,Personal Care,4.95,6.47,1,4.95,6.47
+2023-01-19,Whole Wheat Bread,Bread/Bakery,8.03,5.77,4,32.12,23.08
+2023-01-19,Shampoo,Personal Care,5.19,4.11,7,36.33,28.77
+2023-01-19,Milk,Dairy,4.83,4.1,2,9.66,8.2
+2023-01-19,Toilet Paper,Paper Goods,5.41,7.14,7,37.87,49.98
+2023-01-19,Laundry Detergent,Cleaners,4.77,5.55,4,19.08,22.2
+2023-01-19,Milk,Dairy,8.0,9.5,5,40.0,47.5
+2023-01-19,Whole Wheat Bread,Bread/Bakery,3.19,9.91,9,28.71,89.19
+2023-01-19,Cola,Beverages,6.71,10.53,4,26.84,42.12
+2023-01-19,Whole Wheat Bread,Bread/Bakery,4.57,7.55,6,27.42,45.3
+2023-01-19,Frozen Pizza,Frozen Foods,7.09,9.34,1,7.09,9.34
+2023-01-19,Cola,Beverages,6.24,6.67,9,56.16,60.03
+2023-01-19,Frozen Pizza,Frozen Foods,6.52,9.92,6,39.12,59.52
+2023-01-19,Apples,Produce,3.27,6.72,5,16.35,33.6
+2023-01-19,Shampoo,Personal Care,1.79,6.12,9,16.11,55.08
+2023-01-19,Chocolate Bar,Other,8.93,8.08,2,17.86,16.16
+2023-01-19,Frozen Pizza,Frozen Foods,6.17,4.74,5,30.85,23.7
+2023-01-19,Laundry Detergent,Cleaners,4.85,6.52,5,24.25,32.6
+2023-01-19,Whole Wheat Bread,Bread/Bakery,4.87,5.57,3,14.61,16.71
+2023-01-19,Chocolate Bar,Other,8.19,10.27,7,57.33,71.89
+2023-01-19,Chocolate Bar,Other,4.46,8.79,4,17.84,35.16
+2023-01-19,Toilet Paper,Paper Goods,5.96,4.52,1,5.96,4.52
+2023-01-19,Laundry Detergent,Cleaners,5.31,10.42,3,15.93,31.26
+2023-01-20,Chocolate Bar,Other,2.25,6.32,9,20.25,56.88
+2023-01-20,Laundry Detergent,Cleaners,3.43,4.24,6,20.58,25.44
+2023-01-20,Chicken Breast,Meat,7.21,8.28,5,36.05,41.4
+2023-01-20,Whole Wheat Bread,Bread/Bakery,2.32,8.39,6,13.92,50.34
+2023-01-20,Chocolate Bar,Other,11.52,6.89,5,57.6,34.45
+2023-01-20,Whole Wheat Bread,Bread/Bakery,3.9,8.72,9,35.1,78.48
+2023-01-20,Frozen Pizza,Frozen Foods,1.67,10.25,6,10.02,61.5
+2023-01-20,Toilet Paper,Paper Goods,4.01,9.89,2,8.02,19.78
+2023-01-20,Shampoo,Personal Care,3.6,6.02,5,18.0,30.1
+2023-01-20,Cola,Beverages,6.09,4.92,7,42.63,34.44
+2023-01-20,Milk,Dairy,6.14,8.94,3,18.42,26.82
+2023-01-20,Frozen Pizza,Frozen Foods,2.98,4.77,8,23.84,38.16
+2023-01-20,Chocolate Bar,Other,0.71,8.07,4,2.84,32.28
+2023-01-20,Toilet Paper,Paper Goods,3.66,9.01,7,25.62,63.07
+2023-01-20,Chicken Breast,Meat,2.71,4.27,7,18.97,29.89
+2023-01-20,Cola,Beverages,6.28,6.43,6,37.68,38.58
+2023-01-20,Milk,Dairy,4.05,9.07,9,36.45,81.63
+2023-01-20,Apples,Produce,5.57,7.44,7,38.99,52.08
+2023-01-20,Milk,Dairy,4.57,6.93,9,41.13,62.37
+2023-01-20,Chicken Breast,Meat,8.19,5.72,4,32.76,22.88
+2023-01-20,Laundry Detergent,Cleaners,8.19,6.07,5,40.95,30.35
+2023-01-20,Whole Wheat Bread,Bread/Bakery,7.92,7.32,6,47.52,43.92
+2023-01-20,Apples,Produce,3.58,4.48,3,10.74,13.44
+2023-01-20,Frozen Pizza,Frozen Foods,4.49,6.32,7,31.43,44.24
+2023-01-20,Laundry Detergent,Cleaners,3.37,5.2,6,20.22,31.2
+2023-01-20,Toilet Paper,Paper Goods,7.04,11.18,1,7.04,11.18
+2023-01-20,Cola,Beverages,8.74,7.78,1,8.74,7.78
+2023-01-20,Whole Wheat Bread,Bread/Bakery,6.06,3.08,1,6.06,3.08
+2023-01-20,Whole Wheat Bread,Bread/Bakery,4.92,10.86,7,34.44,76.02
+2023-01-20,Toilet Paper,Paper Goods,3.01,8.3,5,15.05,41.5
+2023-01-20,Chocolate Bar,Other,4.74,7.35,1,4.74,7.35
+2023-01-20,Laundry Detergent,Cleaners,4.4,6.9,1,4.4,6.9
+2023-01-20,Shampoo,Personal Care,3.19,10.42,5,15.95,52.1
+2023-01-20,Chocolate Bar,Other,5.56,10.52,1,5.56,10.52
+2023-01-20,Shampoo,Personal Care,4.47,7.67,3,13.41,23.01
+2023-01-20,Apples,Produce,4.52,9.86,3,13.56,29.58
+2023-01-20,Milk,Dairy,3.4,6.87,9,30.6,61.83
+2023-01-20,Toilet Paper,Paper Goods,2.32,6.83,8,18.56,54.64
+2023-01-20,Frozen Pizza,Frozen Foods,5.31,9.36,1,5.31,9.36
+2023-01-20,Whole Wheat Bread,Bread/Bakery,7.4,6.02,4,29.6,24.08
+2023-01-20,Chocolate Bar,Other,2.84,5.62,6,17.04,33.72
+2023-01-20,Toilet Paper,Paper Goods,4.63,5.76,4,18.52,23.04
+2023-01-20,Chocolate Bar,Other,6.16,6.59,2,12.32,13.18
+2023-01-21,Shampoo,Personal Care,5.54,10.03,9,49.86,90.27
+2023-01-21,Frozen Pizza,Frozen Foods,5.91,9.91,5,29.55,49.55
+2023-01-21,Laundry Detergent,Cleaners,7.25,8.55,3,21.75,25.65
+2023-01-21,Chicken Breast,Meat,6.34,5.16,7,44.38,36.12
+2023-01-21,Shampoo,Personal Care,2.7,3.78,1,2.7,3.78
+2023-01-21,Laundry Detergent,Cleaners,2.48,10.98,4,9.92,43.92
+2023-01-21,Chocolate Bar,Other,8.73,9.22,6,52.38,55.32
+2023-01-21,Toilet Paper,Paper Goods,2.49,7.71,2,4.98,15.42
+2023-01-21,Chocolate Bar,Other,2.26,7.06,1,2.26,7.06
+2023-01-21,Chocolate Bar,Other,3.18,10.04,7,22.26,70.28
+2023-01-21,Whole Wheat Bread,Bread/Bakery,4.84,8.09,6,29.04,48.54
+2023-01-21,Shampoo,Personal Care,5.2,6.89,1,5.2,6.89
+2023-01-21,Chicken Breast,Meat,2.97,8.4,4,11.88,33.6
+2023-01-21,Laundry Detergent,Cleaners,6.7,4.53,4,26.8,18.12
+2023-01-21,Laundry Detergent,Cleaners,6.48,8.63,1,6.48,8.63
+2023-01-21,Toilet Paper,Paper Goods,5.7,3.87,8,45.6,30.96
+2023-01-21,Whole Wheat Bread,Bread/Bakery,4.29,9.84,8,34.32,78.72
+2023-01-21,Toilet Paper,Paper Goods,4.12,10.27,6,24.72,61.62
+2023-01-21,Whole Wheat Bread,Bread/Bakery,4.06,8.29,6,24.36,49.74
+2023-01-21,Apples,Produce,7.32,5.38,3,21.96,16.14
+2023-01-21,Milk,Dairy,1.48,8.28,1,1.48,8.28
+2023-01-21,Milk,Dairy,4.92,6.73,3,14.76,20.19
+2023-01-21,Apples,Produce,1.38,8.28,5,6.9,41.4
+2023-01-21,Milk,Dairy,5.48,7.97,4,21.92,31.88
+2023-01-21,Laundry Detergent,Cleaners,5.77,9.18,3,17.31,27.54
+2023-01-21,Milk,Dairy,6.93,7.66,3,20.79,22.98
+2023-01-21,Shampoo,Personal Care,5.39,5.79,3,16.17,17.37
+2023-01-21,Whole Wheat Bread,Bread/Bakery,3.36,10.06,4,13.44,40.24
+2023-01-21,Milk,Dairy,4.37,8.92,2,8.74,17.84
+2023-01-21,Laundry Detergent,Cleaners,8.03,9.7,5,40.15,48.5
+2023-01-21,Milk,Dairy,4.4,1.14,6,26.4,6.84
+2023-01-21,Cola,Beverages,6.4,6.88,2,12.8,13.76
+2023-01-21,Laundry Detergent,Cleaners,5.4,8.3,7,37.8,58.1
+2023-01-21,Shampoo,Personal Care,5.36,7.11,6,32.16,42.66
+2023-01-21,Chocolate Bar,Other,8.22,7.71,7,57.54,53.97
+2023-01-21,Frozen Pizza,Frozen Foods,2.33,6.22,6,13.98,37.32
+2023-01-21,Apples,Produce,2.36,11.47,2,4.72,22.94
+2023-01-21,Frozen Pizza,Frozen Foods,4.64,4.46,8,37.12,35.68
+2023-01-21,Apples,Produce,6.18,7.53,8,49.44,60.24
+2023-01-21,Chocolate Bar,Other,2.79,6.37,5,13.95,31.85
+2023-01-21,Cola,Beverages,5.77,6.59,8,46.16,52.72
+2023-01-21,Toilet Paper,Paper Goods,8.26,8.51,8,66.08,68.08
+2023-01-21,Chocolate Bar,Other,5.39,5.48,4,21.56,21.92
+2023-01-21,Laundry Detergent,Cleaners,5.66,8.6,7,39.62,60.2
+2023-01-21,Toilet Paper,Paper Goods,6.26,5.39,8,50.08,43.12
+2023-01-21,Shampoo,Personal Care,5.51,8.64,7,38.57,60.48
+2023-01-22,Chicken Breast,Meat,4.64,6.03,7,32.48,42.21
+2023-01-22,Chicken Breast,Meat,4.59,5.51,2,9.18,11.02
+2023-01-22,Laundry Detergent,Cleaners,3.68,5.59,4,14.72,22.36
+2023-01-22,Whole Wheat Bread,Bread/Bakery,4.02,6.43,4,16.08,25.72
+2023-01-22,Chicken Breast,Meat,5.67,7.04,9,51.03,63.36
+2023-01-22,Toilet Paper,Paper Goods,4.18,6.03,8,33.44,48.24
+2023-01-22,Toilet Paper,Paper Goods,4.24,5.84,1,4.24,5.84
+2023-01-22,Frozen Pizza,Frozen Foods,4.09,7.36,5,20.45,36.8
+2023-01-22,Chocolate Bar,Other,4.24,7.66,6,25.44,45.96
+2023-01-22,Toilet Paper,Paper Goods,1.16,6.7,5,5.8,33.5
+2023-01-22,Apples,Produce,3.59,9.02,8,28.72,72.16
+2023-01-22,Milk,Dairy,4.68,9.07,9,42.12,81.63
+2023-01-22,Laundry Detergent,Cleaners,4.77,5.73,9,42.93,51.57
+2023-01-22,Apples,Produce,6.08,10.28,3,18.24,30.84
+2023-01-22,Toilet Paper,Paper Goods,2.84,8.18,7,19.88,57.26
+2023-01-22,Laundry Detergent,Cleaners,8.03,7.72,8,64.24,61.76
+2023-01-22,Frozen Pizza,Frozen Foods,5.03,6.3,9,45.27,56.7
+2023-01-22,Apples,Produce,4.15,9.07,3,12.45,27.21
+2023-01-22,Whole Wheat Bread,Bread/Bakery,5.75,5.58,9,51.75,50.22
+2023-01-22,Toilet Paper,Paper Goods,5.52,4.49,9,49.68,40.41
+2023-01-22,Chocolate Bar,Other,4.47,9.01,7,31.29,63.07
+2023-01-22,Toilet Paper,Paper Goods,7.95,4.66,6,47.7,27.96
+2023-01-22,Apples,Produce,4.57,7.46,3,13.71,22.38
+2023-01-22,Milk,Dairy,5.88,6.14,6,35.28,36.84
+2023-01-22,Apples,Produce,5.13,7.89,9,46.17,71.01
+2023-01-22,Apples,Produce,7.44,5.97,3,22.32,17.91
+2023-01-22,Cola,Beverages,6.04,10.26,5,30.2,51.3
+2023-01-22,Frozen Pizza,Frozen Foods,2.8,8.36,5,14.0,41.8
+2023-01-22,Chocolate Bar,Other,10.06,8.25,4,40.24,33.0
+2023-01-22,Chocolate Bar,Other,6.07,9.46,1,6.07,9.46
+2023-01-22,Apples,Produce,5.77,3.67,1,5.77,3.67
+2023-01-22,Toilet Paper,Paper Goods,6.66,6.95,7,46.62,48.65
+2023-01-22,Toilet Paper,Paper Goods,3.69,5.53,7,25.83,38.71
+2023-01-22,Chicken Breast,Meat,8.18,6.59,7,57.26,46.13
+2023-01-22,Whole Wheat Bread,Bread/Bakery,5.16,10.22,7,36.12,71.54
+2023-01-22,Whole Wheat Bread,Bread/Bakery,7.34,6.27,5,36.7,31.35
+2023-01-22,Chicken Breast,Meat,5.26,6.19,3,15.78,18.57
+2023-01-23,Shampoo,Personal Care,8.07,6.64,5,40.35,33.2
+2023-01-23,Laundry Detergent,Cleaners,2.15,8.63,9,19.35,77.67
+2023-01-23,Frozen Pizza,Frozen Foods,6.3,8.51,9,56.7,76.59
+2023-01-23,Cola,Beverages,5.26,7.17,8,42.08,57.36
+2023-01-23,Toilet Paper,Paper Goods,5.45,7.97,8,43.6,63.76
+2023-01-23,Chocolate Bar,Other,7.86,5.77,1,7.86,5.77
+2023-01-23,Cola,Beverages,6.51,4.76,5,32.55,23.8
+2023-01-23,Toilet Paper,Paper Goods,4.65,8.34,2,9.3,16.68
+2023-01-23,Apples,Produce,8.07,7.28,3,24.21,21.84
+2023-01-23,Milk,Dairy,4.61,6.87,3,13.83,20.61
+2023-01-23,Whole Wheat Bread,Bread/Bakery,6.01,7.39,1,6.01,7.39
+2023-01-23,Apples,Produce,2.66,9.29,2,5.32,18.58
+2023-01-23,Apples,Produce,3.22,8.91,4,12.88,35.64
+2023-01-23,Chocolate Bar,Other,8.89,6.03,1,8.89,6.03
+2023-01-23,Shampoo,Personal Care,3.37,3.13,3,10.11,9.39
+2023-01-23,Chocolate Bar,Other,3.59,6.13,8,28.72,49.04
+2023-01-23,Cola,Beverages,5.66,7.06,8,45.28,56.48
+2023-01-23,Whole Wheat Bread,Bread/Bakery,2.81,7.6,9,25.29,68.4
+2023-01-23,Whole Wheat Bread,Bread/Bakery,2.37,8.71,3,7.11,26.13
+2023-01-23,Milk,Dairy,3.7,6.31,1,3.7,6.31
+2023-01-23,Milk,Dairy,6.27,4.77,2,12.54,9.54
+2023-01-23,Laundry Detergent,Cleaners,4.46,8.19,7,31.22,57.33
+2023-01-23,Cola,Beverages,8.34,6.13,3,25.02,18.39
+2023-01-23,Chocolate Bar,Other,7.04,7.58,4,28.16,30.32
+2023-01-23,Apples,Produce,4.89,4.4,4,19.56,17.6
+2023-01-23,Apples,Produce,5.64,7.26,4,22.56,29.04
+2023-01-23,Shampoo,Personal Care,6.82,7.21,7,47.74,50.47
+2023-01-23,Frozen Pizza,Frozen Foods,3.18,7.38,3,9.54,22.14
+2023-01-23,Apples,Produce,8.79,7.44,8,70.32,59.52
+2023-01-23,Whole Wheat Bread,Bread/Bakery,6.33,7.18,8,50.64,57.44
+2023-01-23,Laundry Detergent,Cleaners,6.63,5.57,5,33.15,27.85
+2023-01-23,Laundry Detergent,Cleaners,3.54,6.5,6,21.24,39.0
+2023-01-23,Chicken Breast,Meat,5.3,5.64,1,5.3,5.64
+2023-01-23,Toilet Paper,Paper Goods,5.14,6.58,7,35.98,46.06
+2023-01-23,Chocolate Bar,Other,6.36,8.58,6,38.16,51.48
+2023-01-23,Chocolate Bar,Other,3.6,8.51,2,7.2,17.02
+2023-01-23,Laundry Detergent,Cleaners,1.99,7.25,5,9.95,36.25
+2023-01-23,Cola,Beverages,5.97,3.91,6,35.82,23.46
+2023-01-23,Chocolate Bar,Other,5.86,7.87,6,35.16,47.22
+2023-01-23,Milk,Dairy,2.43,4.21,1,2.43,4.21
+2023-01-23,Cola,Beverages,2.63,7.39,6,15.78,44.34
+2023-01-23,Cola,Beverages,6.39,6.52,3,19.17,19.56
+2023-01-23,Toilet Paper,Paper Goods,5.97,7.92,1,5.97,7.92
+2023-01-23,Chicken Breast,Meat,3.93,7.45,7,27.51,52.15
+2023-01-23,Shampoo,Personal Care,6.28,7.3,4,25.12,29.2
+2023-01-23,Apples,Produce,5.91,5.04,2,11.82,10.08
+2023-01-23,Frozen Pizza,Frozen Foods,8.45,8.0,7,59.15,56.0
+2023-01-23,Laundry Detergent,Cleaners,8.1,7.14,3,24.3,21.42
+2023-01-23,Cola,Beverages,2.55,8.35,3,7.65,25.05
+2023-01-24,Toilet Paper,Paper Goods,3.73,3.28,7,26.11,22.96
+2023-01-24,Whole Wheat Bread,Bread/Bakery,4.42,5.43,6,26.52,32.58
+2023-01-24,Chocolate Bar,Other,1.48,7.6,4,5.92,30.4
+2023-01-24,Toilet Paper,Paper Goods,5.63,6.33,4,22.52,25.32
+2023-01-24,Chocolate Bar,Other,1.97,7.64,8,15.76,61.12
+2023-01-24,Shampoo,Personal Care,6.79,6.01,7,47.53,42.07
+2023-01-24,Toilet Paper,Paper Goods,0.49,5.67,9,4.41,51.03
+2023-01-24,Milk,Dairy,4.46,5.8,2,8.92,11.6
+2023-01-24,Chicken Breast,Meat,4.02,9.7,2,8.04,19.4
+2023-01-24,Laundry Detergent,Cleaners,5.3,9.51,4,21.2,38.04
+2023-01-24,Laundry Detergent,Cleaners,-0.69,7.04,8,-5.52,56.32
+2023-01-24,Chocolate Bar,Other,1.1,7.29,4,4.4,29.16
+2023-01-24,Apples,Produce,4.55,6.83,3,13.65,20.49
+2023-01-24,Chocolate Bar,Other,4.81,7.84,9,43.29,70.56
+2023-01-24,Milk,Dairy,7.62,4.64,6,45.72,27.84
+2023-01-24,Milk,Dairy,4.74,8.16,7,33.18,57.12
+2023-01-24,Chocolate Bar,Other,5.15,6.33,7,36.05,44.31
+2023-01-24,Cola,Beverages,1.46,5.75,9,13.14,51.75
+2023-01-24,Laundry Detergent,Cleaners,4.79,1.59,7,33.53,11.13
+2023-01-24,Shampoo,Personal Care,4.34,6.32,9,39.06,56.88
+2023-01-24,Chocolate Bar,Other,3.32,6.55,9,29.88,58.95
+2023-01-24,Shampoo,Personal Care,7.1,10.31,2,14.2,20.62
+2023-01-24,Chocolate Bar,Other,4.25,5.99,2,8.5,11.98
+2023-01-24,Shampoo,Personal Care,3.81,6.79,1,3.81,6.79
+2023-01-24,Milk,Dairy,4.28,6.84,6,25.68,41.04
+2023-01-24,Shampoo,Personal Care,3.65,9.01,4,14.6,36.04
+2023-01-24,Laundry Detergent,Cleaners,9.86,9.6,8,78.88,76.8
+2023-01-24,Laundry Detergent,Cleaners,5.08,4.79,8,40.64,38.32
+2023-01-24,Cola,Beverages,3.6,4.87,4,14.4,19.48
+2023-01-24,Chicken Breast,Meat,2.12,8.71,7,14.84,60.97
+2023-01-24,Chocolate Bar,Other,6.68,7.74,5,33.4,38.7
+2023-01-24,Milk,Dairy,8.87,6.69,4,35.48,26.76
+2023-01-24,Milk,Dairy,3.7,5.73,5,18.5,28.65
+2023-01-24,Laundry Detergent,Cleaners,4.66,6.66,6,27.96,39.96
+2023-01-24,Frozen Pizza,Frozen Foods,3.02,6.51,2,6.04,13.02
+2023-01-24,Chicken Breast,Meat,5.63,9.42,3,16.89,28.26
+2023-01-24,Laundry Detergent,Cleaners,3.75,8.49,6,22.5,50.94
+2023-01-24,Frozen Pizza,Frozen Foods,3.0,5.5,3,9.0,16.5
+2023-01-24,Apples,Produce,6.52,4.71,9,58.68,42.39
+2023-01-24,Frozen Pizza,Frozen Foods,6.96,8.04,2,13.92,16.08
+2023-01-24,Chicken Breast,Meat,5.96,5.61,5,29.8,28.05
+2023-01-24,Apples,Produce,2.61,8.79,2,5.22,17.58
+2023-01-24,Chocolate Bar,Other,5.49,1.09,4,21.96,4.36
+2023-01-24,Milk,Dairy,4.07,4.93,3,12.21,14.79
+2023-01-24,Shampoo,Personal Care,9.53,7.23,5,47.65,36.15
+2023-01-25,Frozen Pizza,Frozen Foods,9.23,5.09,8,73.84,40.72
+2023-01-25,Cola,Beverages,9.45,7.02,7,66.15,49.14
+2023-01-25,Chicken Breast,Meat,1.66,5.94,7,11.62,41.58
+2023-01-25,Chicken Breast,Meat,3.1,5.65,7,21.7,39.55
+2023-01-25,Whole Wheat Bread,Bread/Bakery,5.57,11.99,3,16.71,35.97
+2023-01-25,Chocolate Bar,Other,3.96,6.46,3,11.88,19.38
+2023-01-25,Milk,Dairy,6.8,10.38,2,13.6,20.76
+2023-01-25,Cola,Beverages,6.47,10.56,4,25.88,42.24
+2023-01-25,Apples,Produce,6.37,6.89,1,6.37,6.89
+2023-01-25,Toilet Paper,Paper Goods,3.38,8.42,5,16.9,42.1
+2023-01-25,Apples,Produce,5.57,5.02,4,22.28,20.08
+2023-01-25,Whole Wheat Bread,Bread/Bakery,4.43,2.77,2,8.86,5.54
+2023-01-25,Toilet Paper,Paper Goods,7.39,7.96,4,29.56,31.84
+2023-01-25,Laundry Detergent,Cleaners,2.86,10.82,4,11.44,43.28
+2023-01-25,Toilet Paper,Paper Goods,9.59,6.75,9,86.31,60.75
+2023-01-25,Whole Wheat Bread,Bread/Bakery,8.24,10.9,8,65.92,87.2
+2023-01-25,Chicken Breast,Meat,1.66,9.12,6,9.96,54.72
+2023-01-25,Toilet Paper,Paper Goods,6.76,8.4,4,27.04,33.6
+2023-01-25,Toilet Paper,Paper Goods,6.28,9.12,4,25.12,36.48
+2023-01-25,Frozen Pizza,Frozen Foods,4.77,7.51,5,23.85,37.55
+2023-01-25,Frozen Pizza,Frozen Foods,3.4,6.25,7,23.8,43.75
+2023-01-25,Apples,Produce,6.26,7.58,7,43.82,53.06
+2023-01-25,Laundry Detergent,Cleaners,5.4,6.52,1,5.4,6.52
+2023-01-25,Shampoo,Personal Care,4.83,0.62,5,24.15,3.1
+2023-01-25,Frozen Pizza,Frozen Foods,2.3,8.85,1,2.3,8.85
+2023-01-25,Chicken Breast,Meat,3.17,9.71,3,9.51,29.13
+2023-01-25,Apples,Produce,5.25,8.85,9,47.25,79.65
+2023-01-25,Apples,Produce,3.92,4.31,1,3.92,4.31
+2023-01-25,Frozen Pizza,Frozen Foods,3.41,6.63,3,10.23,19.89
+2023-01-25,Frozen Pizza,Frozen Foods,7.55,7.68,5,37.75,38.4
+2023-01-25,Cola,Beverages,8.35,5.11,6,50.1,30.66
+2023-01-26,Milk,Dairy,7.7,5.47,5,38.5,27.35
+2023-01-26,Frozen Pizza,Frozen Foods,7.07,8.64,4,28.28,34.56
+2023-01-26,Milk,Dairy,8.52,7.0,9,76.68,63.0
+2023-01-26,Apples,Produce,4.84,3.1,6,29.04,18.6
+2023-01-26,Milk,Dairy,5.56,3.99,3,16.68,11.97
+2023-01-26,Chocolate Bar,Other,2.89,5.08,9,26.01,45.72
+2023-01-26,Frozen Pizza,Frozen Foods,7.04,7.93,3,21.12,23.79
+2023-01-26,Laundry Detergent,Cleaners,6.31,4.46,6,37.86,26.76
+2023-01-26,Whole Wheat Bread,Bread/Bakery,8.94,6.96,4,35.76,27.84
+2023-01-26,Apples,Produce,3.07,7.85,3,9.21,23.55
+2023-01-26,Toilet Paper,Paper Goods,2.79,7.27,8,22.32,58.16
+2023-01-26,Laundry Detergent,Cleaners,3.96,11.33,9,35.64,101.97
+2023-01-26,Chocolate Bar,Other,3.6,9.32,3,10.8,27.96
+2023-01-26,Chicken Breast,Meat,8.45,7.44,9,76.05,66.96
+2023-01-26,Shampoo,Personal Care,3.97,8.74,4,15.88,34.96
+2023-01-26,Apples,Produce,6.25,7.37,7,43.75,51.59
+2023-01-26,Chocolate Bar,Other,6.36,6.73,7,44.52,47.11
+2023-01-26,Laundry Detergent,Cleaners,6.54,3.48,9,58.86,31.32
+2023-01-26,Chocolate Bar,Other,4.72,9.68,1,4.72,9.68
+2023-01-26,Frozen Pizza,Frozen Foods,3.04,7.0,4,12.16,28.0
+2023-01-26,Toilet Paper,Paper Goods,8.03,9.96,6,48.18,59.76
+2023-01-26,Frozen Pizza,Frozen Foods,3.06,2.51,9,27.54,22.59
+2023-01-26,Chocolate Bar,Other,3.7,7.82,1,3.7,7.82
+2023-01-26,Shampoo,Personal Care,3.86,5.47,2,7.72,10.94
+2023-01-26,Apples,Produce,4.2,8.46,5,21.0,42.3
+2023-01-26,Whole Wheat Bread,Bread/Bakery,5.22,6.16,6,31.32,36.96
+2023-01-26,Chocolate Bar,Other,3.46,6.48,8,27.68,51.84
+2023-01-26,Toilet Paper,Paper Goods,5.37,9.78,9,48.33,88.02
+2023-01-26,Whole Wheat Bread,Bread/Bakery,7.12,7.34,4,28.48,29.36
+2023-01-26,Chicken Breast,Meat,6.01,9.98,4,24.04,39.92
+2023-01-26,Apples,Produce,9.54,6.19,4,38.16,24.76
+2023-01-26,Whole Wheat Bread,Bread/Bakery,3.07,5.78,1,3.07,5.78
+2023-01-26,Chocolate Bar,Other,8.08,3.84,8,64.64,30.72
+2023-01-26,Apples,Produce,0.02,5.04,5,0.1,25.2
+2023-01-26,Shampoo,Personal Care,6.06,9.56,7,42.42,66.92
+2023-01-26,Shampoo,Personal Care,5.72,4.05,5,28.6,20.25
+2023-01-26,Whole Wheat Bread,Bread/Bakery,2.47,10.06,6,14.82,60.36
+2023-01-27,Milk,Dairy,4.65,4.29,6,27.9,25.74
+2023-01-27,Chicken Breast,Meat,4.47,4.27,2,8.94,8.54
+2023-01-27,Frozen Pizza,Frozen Foods,7.28,5.88,6,43.68,35.28
+2023-01-27,Whole Wheat Bread,Bread/Bakery,5.89,9.2,9,53.01,82.8
+2023-01-27,Laundry Detergent,Cleaners,1.96,10.49,7,13.72,73.43
+2023-01-27,Milk,Dairy,7.21,10.87,6,43.26,65.22
+2023-01-27,Chicken Breast,Meat,7.8,8.11,7,54.6,56.77
+2023-01-27,Chocolate Bar,Other,4.78,5.39,3,14.34,16.17
+2023-01-27,Milk,Dairy,3.28,8.63,3,9.84,25.89
+2023-01-27,Apples,Produce,7.06,6.33,3,21.18,18.99
+2023-01-27,Milk,Dairy,7.18,6.25,4,28.72,25.0
+2023-01-27,Frozen Pizza,Frozen Foods,7.11,12.5,3,21.33,37.5
+2023-01-27,Shampoo,Personal Care,6.09,7.14,9,54.81,64.26
+2023-01-27,Laundry Detergent,Cleaners,5.35,4.33,5,26.75,21.65
+2023-01-27,Cola,Beverages,6.82,3.53,8,54.56,28.24
+2023-01-27,Toilet Paper,Paper Goods,6.43,6.84,9,57.87,61.56
+2023-01-27,Cola,Beverages,6.29,8.49,9,56.61,76.41
+2023-01-27,Frozen Pizza,Frozen Foods,5.64,7.26,2,11.28,14.52
+2023-01-27,Whole Wheat Bread,Bread/Bakery,3.08,8.0,3,9.24,24.0
+2023-01-27,Toilet Paper,Paper Goods,4.4,1.79,8,35.2,14.32
+2023-01-27,Frozen Pizza,Frozen Foods,4.3,7.12,9,38.7,64.08
+2023-01-27,Whole Wheat Bread,Bread/Bakery,6.06,7.11,7,42.42,49.77
+2023-01-27,Chicken Breast,Meat,6.24,9.08,7,43.68,63.56
+2023-01-27,Whole Wheat Bread,Bread/Bakery,7.23,5.67,2,14.46,11.34
+2023-01-27,Shampoo,Personal Care,6.98,7.85,7,48.86,54.95
+2023-01-27,Chicken Breast,Meat,5.22,7.09,8,41.76,56.72
+2023-01-27,Shampoo,Personal Care,7.73,8.49,6,46.38,50.94
+2023-01-27,Laundry Detergent,Cleaners,3.79,8.65,1,3.79,8.65
+2023-01-27,Milk,Dairy,3.48,7.08,1,3.48,7.08
+2023-01-27,Chicken Breast,Meat,3.41,7.85,3,10.23,23.55
+2023-01-27,Toilet Paper,Paper Goods,0.58,9.21,7,4.06,64.47
+2023-01-27,Apples,Produce,5.33,5.9,3,15.99,17.7
+2023-01-27,Toilet Paper,Paper Goods,7.74,4.66,7,54.18,32.62
+2023-01-27,Whole Wheat Bread,Bread/Bakery,2.64,7.53,9,23.76,67.77
+2023-01-27,Laundry Detergent,Cleaners,9.19,10.19,2,18.38,20.38
+2023-01-27,Toilet Paper,Paper Goods,7.41,5.75,4,29.64,23.0
+2023-01-27,Apples,Produce,7.37,5.36,9,66.33,48.24
+2023-01-27,Chicken Breast,Meat,6.37,9.93,1,6.37,9.93
+2023-01-27,Laundry Detergent,Cleaners,6.18,6.48,1,6.18,6.48
+2023-01-27,Shampoo,Personal Care,3.89,5.05,9,35.01,45.45
+2023-01-27,Apples,Produce,4.6,7.64,6,27.6,45.84
+2023-01-27,Whole Wheat Bread,Bread/Bakery,3.22,6.88,2,6.44,13.76
+2023-01-27,Cola,Beverages,3.22,6.34,3,9.66,19.02
+2023-01-27,Cola,Beverages,5.46,9.15,9,49.14,82.35
+2023-01-27,Whole Wheat Bread,Bread/Bakery,7.35,7.97,9,66.15,71.73
+2023-01-27,Apples,Produce,5.29,8.65,3,15.87,25.95
+2023-01-27,Cola,Beverages,3.34,5.72,7,23.38,40.04
+2023-01-28,Whole Wheat Bread,Bread/Bakery,9.02,4.26,5,45.1,21.3
+2023-01-28,Chocolate Bar,Other,6.12,5.38,9,55.08,48.42
+2023-01-28,Frozen Pizza,Frozen Foods,4.49,7.08,9,40.41,63.72
+2023-01-28,Frozen Pizza,Frozen Foods,7.67,9.37,9,69.03,84.33
+2023-01-28,Chocolate Bar,Other,9.61,4.04,2,19.22,8.08
+2023-01-28,Whole Wheat Bread,Bread/Bakery,3.33,8.35,9,29.97,75.15
+2023-01-28,Toilet Paper,Paper Goods,2.18,9.16,9,19.62,82.44
+2023-01-28,Chicken Breast,Meat,1.37,4.88,8,10.96,39.04
+2023-01-28,Shampoo,Personal Care,3.44,9.16,8,27.52,73.28
+2023-01-28,Laundry Detergent,Cleaners,7.43,7.96,5,37.15,39.8
+2023-01-28,Laundry Detergent,Cleaners,1.92,4.21,5,9.6,21.05
+2023-01-28,Laundry Detergent,Cleaners,4.66,6.66,4,18.64,26.64
+2023-01-28,Laundry Detergent,Cleaners,5.76,5.36,7,40.32,37.52
+2023-01-28,Chocolate Bar,Other,3.37,9.77,3,10.11,29.31
+2023-01-28,Whole Wheat Bread,Bread/Bakery,3.71,4.97,5,18.55,24.85
+2023-01-28,Milk,Dairy,6.64,7.09,8,53.12,56.72
+2023-01-28,Shampoo,Personal Care,7.68,5.61,7,53.76,39.27
+2023-01-28,Milk,Dairy,4.32,7.74,6,25.92,46.44
+2023-01-28,Frozen Pizza,Frozen Foods,1.98,4.69,9,17.82,42.21
+2023-01-28,Apples,Produce,4.42,6.09,4,17.68,24.36
+2023-01-28,Milk,Dairy,4.25,8.43,7,29.75,59.01
+2023-01-28,Chocolate Bar,Other,3.87,7.85,8,30.96,62.8
+2023-01-28,Whole Wheat Bread,Bread/Bakery,5.3,7.73,9,47.7,69.57
+2023-01-28,Laundry Detergent,Cleaners,9.44,7.02,3,28.32,21.06
+2023-01-28,Whole Wheat Bread,Bread/Bakery,4.97,6.74,5,24.85,33.7
+2023-01-28,Apples,Produce,7.41,8.55,8,59.28,68.4
+2023-01-28,Milk,Dairy,4.72,7.68,7,33.04,53.76
+2023-01-28,Shampoo,Personal Care,5.07,7.34,8,40.56,58.72
+2023-01-28,Toilet Paper,Paper Goods,7.53,9.97,3,22.59,29.91
+2023-01-28,Apples,Produce,6.59,6.15,1,6.59,6.15
+2023-01-28,Apples,Produce,6.08,8.96,1,6.08,8.96
+2023-01-28,Whole Wheat Bread,Bread/Bakery,7.92,3.31,1,7.92,3.31
+2023-01-28,Milk,Dairy,3.47,2.21,1,3.47,2.21
+2023-01-28,Toilet Paper,Paper Goods,5.63,4.98,6,33.78,29.88
+2023-01-28,Whole Wheat Bread,Bread/Bakery,7.13,9.91,8,57.04,79.28
+2023-01-28,Milk,Dairy,6.92,7.68,2,13.84,15.36
+2023-01-28,Toilet Paper,Paper Goods,5.12,7.7,4,20.48,30.8
+2023-01-28,Cola,Beverages,5.38,3.65,2,10.76,7.3
+2023-01-28,Whole Wheat Bread,Bread/Bakery,7.03,6.68,9,63.27,60.12
+2023-01-28,Apples,Produce,4.7,5.72,2,9.4,11.44
+2023-01-28,Cola,Beverages,7.15,6.72,4,28.6,26.88
+2023-01-28,Chicken Breast,Meat,7.48,6.3,5,37.4,31.5
+2023-01-28,Whole Wheat Bread,Bread/Bakery,3.01,10.65,1,3.01,10.65
+2023-01-28,Chocolate Bar,Other,7.44,8.59,1,7.44,8.59
+2023-01-28,Laundry Detergent,Cleaners,4.05,8.36,3,12.15,25.08
+2023-01-28,Shampoo,Personal Care,3.41,12.3,9,30.69,110.7
+2023-01-28,Whole Wheat Bread,Bread/Bakery,5.96,8.36,7,41.72,58.52
+2023-01-29,Cola,Beverages,5.64,7.34,1,5.64,7.34
+2023-01-29,Cola,Beverages,5.07,4.92,2,10.14,9.84
+2023-01-29,Cola,Beverages,3.83,7.66,4,15.32,30.64
+2023-01-29,Apples,Produce,4.48,6.24,2,8.96,12.48
+2023-01-29,Chocolate Bar,Other,6.58,4.15,8,52.64,33.2
+2023-01-29,Whole Wheat Bread,Bread/Bakery,8.32,6.34,7,58.24,44.38
+2023-01-29,Chocolate Bar,Other,5.62,7.86,6,33.72,47.16
+2023-01-29,Milk,Dairy,5.07,6.0,4,20.28,24.0
+2023-01-29,Milk,Dairy,3.83,9.01,7,26.81,63.07
+2023-01-29,Toilet Paper,Paper Goods,6.82,5.58,4,27.28,22.32
+2023-01-29,Cola,Beverages,3.05,9.61,3,9.15,28.83
+2023-01-29,Toilet Paper,Paper Goods,3.95,9.06,8,31.6,72.48
+2023-01-29,Apples,Produce,5.23,4.77,7,36.61,33.39
+2023-01-29,Milk,Dairy,3.64,6.78,3,10.92,20.34
+2023-01-29,Apples,Produce,5.53,10.38,1,5.53,10.38
+2023-01-29,Whole Wheat Bread,Bread/Bakery,2.89,4.88,7,20.23,34.16
+2023-01-29,Shampoo,Personal Care,3.03,8.98,9,27.27,80.82
+2023-01-29,Whole Wheat Bread,Bread/Bakery,5.36,9.61,5,26.8,48.05
+2023-01-29,Cola,Beverages,4.59,7.44,6,27.54,44.64
+2023-01-29,Toilet Paper,Paper Goods,4.36,6.52,4,17.44,26.08
+2023-01-29,Chocolate Bar,Other,4.32,7.0,7,30.24,49.0
+2023-01-29,Laundry Detergent,Cleaners,3.72,5.22,2,7.44,10.44
+2023-01-29,Frozen Pizza,Frozen Foods,4.32,10.16,3,12.96,30.48
+2023-01-29,Whole Wheat Bread,Bread/Bakery,3.98,5.2,5,19.9,26.0
+2023-01-29,Apples,Produce,2.98,10.52,1,2.98,10.52
+2023-01-29,Apples,Produce,4.51,5.11,3,13.53,15.33
+2023-01-29,Whole Wheat Bread,Bread/Bakery,3.76,5.89,7,26.32,41.23
+2023-01-29,Chocolate Bar,Other,3.64,5.35,1,3.64,5.35
+2023-01-29,Frozen Pizza,Frozen Foods,4.2,4.63,9,37.8,41.67
+2023-01-29,Chicken Breast,Meat,5.81,5.9,1,5.81,5.9
+2023-01-29,Laundry Detergent,Cleaners,4.14,11.67,3,12.42,35.01
+2023-01-29,Milk,Dairy,4.24,6.34,9,38.16,57.06
+2023-01-29,Shampoo,Personal Care,7.36,7.96,7,51.52,55.72
+2023-01-29,Shampoo,Personal Care,2.5,4.78,6,15.0,28.68
+2023-01-29,Laundry Detergent,Cleaners,7.28,7.84,4,29.12,31.36
+2023-01-30,Cola,Beverages,3.77,5.58,3,11.31,16.74
+2023-01-30,Toilet Paper,Paper Goods,6.51,12.01,1,6.51,12.01
+2023-01-30,Whole Wheat Bread,Bread/Bakery,0.4,5.96,2,0.8,11.92
+2023-01-30,Laundry Detergent,Cleaners,2.37,6.24,6,14.22,37.44
+2023-01-30,Chocolate Bar,Other,4.27,6.7,5,21.35,33.5
+2023-01-30,Chicken Breast,Meat,3.55,6.61,8,28.4,52.88
+2023-01-30,Toilet Paper,Paper Goods,1.92,7.5,9,17.28,67.5
+2023-01-30,Whole Wheat Bread,Bread/Bakery,2.13,5.84,8,17.04,46.72
+2023-01-30,Shampoo,Personal Care,3.44,6.37,2,6.88,12.74
+2023-01-30,Toilet Paper,Paper Goods,3.06,8.6,2,6.12,17.2
+2023-01-30,Laundry Detergent,Cleaners,4.15,6.56,1,4.15,6.56
+2023-01-30,Whole Wheat Bread,Bread/Bakery,3.14,9.14,2,6.28,18.28
+2023-01-30,Cola,Beverages,7.65,5.69,4,30.6,22.76
+2023-01-30,Whole Wheat Bread,Bread/Bakery,10.36,7.13,9,93.24,64.17
+2023-01-30,Chicken Breast,Meat,8.91,6.74,1,8.91,6.74
+2023-01-30,Whole Wheat Bread,Bread/Bakery,4.13,7.92,1,4.13,7.92
+2023-01-30,Chocolate Bar,Other,1.38,7.97,1,1.38,7.97
+2023-01-30,Toilet Paper,Paper Goods,3.4,3.18,7,23.8,22.26
+2023-01-30,Chocolate Bar,Other,7.39,5.89,5,36.95,29.45
+2023-01-30,Apples,Produce,7.79,8.42,8,62.32,67.36
+2023-01-30,Apples,Produce,3.89,6.74,6,23.34,40.44
+2023-01-30,Chocolate Bar,Other,2.94,11.8,6,17.64,70.8
+2023-01-30,Frozen Pizza,Frozen Foods,6.17,5.53,7,43.19,38.71
+2023-01-30,Cola,Beverages,4.77,10.33,3,14.31,30.99
+2023-01-30,Frozen Pizza,Frozen Foods,0.27,8.42,2,0.54,16.84
+2023-01-30,Cola,Beverages,5.12,8.9,8,40.96,71.2
+2023-01-30,Whole Wheat Bread,Bread/Bakery,5.27,11.18,4,21.08,44.72
+2023-01-30,Toilet Paper,Paper Goods,6.51,4.63,2,13.02,9.26
+2023-01-30,Frozen Pizza,Frozen Foods,8.82,6.85,4,35.28,27.4
+2023-01-30,Milk,Dairy,7.5,4.33,6,45.0,25.98
+2023-01-30,Frozen Pizza,Frozen Foods,4.3,5.45,6,25.8,32.7
+2023-01-30,Chicken Breast,Meat,3.81,2.22,3,11.43,6.66
+2023-01-30,Apples,Produce,5.92,6.24,5,29.6,31.2
+2023-01-30,Laundry Detergent,Cleaners,4.34,7.72,3,13.02,23.16
+2023-01-30,Chocolate Bar,Other,6.65,8.37,9,59.85,75.33
+2023-01-30,Milk,Dairy,3.84,5.78,5,19.2,28.9
+2023-01-30,Toilet Paper,Paper Goods,6.26,3.25,8,50.08,26.0
+2023-01-30,Chocolate Bar,Other,3.54,10.78,7,24.78,75.46
+2023-01-30,Chocolate Bar,Other,5.1,8.54,2,10.2,17.08
+2023-01-30,Shampoo,Personal Care,6.16,8.09,1,6.16,8.09
+2023-01-30,Laundry Detergent,Cleaners,2.7,7.69,5,13.5,38.45
+2023-01-30,Apples,Produce,5.37,8.78,3,16.11,26.34
+2023-01-30,Whole Wheat Bread,Bread/Bakery,5.73,5.75,6,34.38,34.5
+2023-01-30,Toilet Paper,Paper Goods,4.69,2.88,9,42.21,25.92
+2023-01-30,Shampoo,Personal Care,1.83,5.67,5,9.15,28.35
+2023-01-30,Frozen Pizza,Frozen Foods,6.11,5.9,8,48.88,47.2

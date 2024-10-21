@@ -1,0 +1,13 @@
+Create a python script to generate a visualization to show the distribution of data in the cost per unit column and the sales price per unit column
+
+
+describe the attached data set
+
+create a python script to remove duplicate rows and to remove rows with columns that are missing values
+
+create a script to use the cleaned data set for each row add a column time_to_delivery which is the number of days between the order_date and expected_delivery_date
+
+create a script to calculate the average time to delivery by supplier
+
+create a monte carlo simulation to model inventory management. the demand per day is randomly select from a normal distribution with a mean of 50 and a  standard deviation of 10. The holding cost is $10 per unit per day and the shortage cost is $50 per unit per day. Run a 180 day simulation 100 times for each of 3 suppliers. For supplier 1 assume a time to delivery of 13.718935 days; for supplier 2 assume 13.079646 days to delivery; and for supplier 3 assume 13.332288 days to delivery
+
