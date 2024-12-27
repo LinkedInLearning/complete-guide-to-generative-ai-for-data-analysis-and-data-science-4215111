@@ -1,0 +1,102 @@
+[
+  {
+      "productName": "myPhone 13 Pro",
+      "productCategory": "electronics",
+      "productID": "ELEC001",
+      "categoryAttributes": {
+          "displaySize": "6.1 inches",
+          "cameraResolution": "12MP",
+          "storage": "256GB"
+      }
+  },
+  {
+      "productName": "Acme QLED TV",
+      "productCategory": "electronics",
+      "productID": "ELEC002",
+      "categoryAttributes": {
+          "screenSize": "65 inches",
+          "resolution": "4K",
+          "smartTV": true
+      }
+  },
+  {
+      "productName": "Ace Noise-Cancelling Headphones",
+      "productCategory": "electronics",
+      "productID": "ELEC003",
+      "categoryAttributes": {
+          "wirelessTechnology": "Bluetooth 5.0",
+          "batteryLife": "30 hours",
+          "noiseReduction": true
+      }
+  },
+  {
+      "productName": "Cast Iron Skillet",
+      "productCategory": "housewares",
+      "productID": "HOUSE001",
+      "categoryAttributes": {
+          "material": "Cast Iron",
+          "diameter": "12 inches",
+          "ovenSafe": true
+      }
+  },
+  {
+      "productName": "Vacuum Cleaner",
+      "productCategory": "housewares",
+      "productID": "HOUSE002",
+      "categoryAttributes": {
+          "bagless": true,
+          "filterType": "HEPA",
+          "cordLength": "25 feet"
+      }
+  },
+  {
+      "productName": "Kitchen Knife Set",
+      "productCategory": "housewares",
+      "productID": "HOUSE003",
+      "categoryAttributes": {
+          "numberOfKnives": 6,
+          "bladeType": "Stainless Steel",
+          "knifeBlock": true
+      }
+  },
+  {
+      "productName": "Denim Jeans",
+      "productCategory": "clothing",
+      "productID": "CLOTH001",
+      "categoryAttributes": {
+          "size": "32x32",
+          "fit": "Slim",
+          "material": "Cotton"
+      }
+  },
+  {
+      "productName": "Dress Shirt",
+      "productCategory": "clothing",
+      "productID": "CLOTH002",
+      "categoryAttributes": {
+          "size": "Large",
+          "color": "White",
+          "sleeveLength": "Long"
+      }
+  },
+  {
+      "productName": "Running Shoes",
+      "productCategory": "clothing",
+      "productID": "CLOTH003",
+      "categoryAttributes": {
+          "size": "10",
+          "gender": "Men's",
+          "shoeType": "Athletic"
+      }
+  },
+  {
+      "productName": "Leather Jacket",
+      "productCategory": "clothing",
+      "productID": "CLOTH004",
+      "categoryAttributes": {
+          "size": "Medium",
+          "material": "Genuine Leather",
+          "style": "Biker"
+      }
+  }
+]
