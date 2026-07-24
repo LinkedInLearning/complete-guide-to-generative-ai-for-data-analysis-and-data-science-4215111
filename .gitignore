@@ -2,3 +2,19 @@
 node_modules
 .tmp
 npm-debug.log
+
+# Python virtual environments
+.venv/
+venv/
+
+# Intermediate data files written by notebooks at run time.
+# These are regenerated on each run and must not be committed (their contents
+# would drift from the on-screen results in the recorded videos).
+exercises/Ch06/healthcare_sample.csv
+exercises/Ch06/sampled_file_100.csv
+exercises/Ch18/Cleaned_B2B_Order_Data.csv
+exercises/Ch18/Updated_B2B_Order_Data.csv
+exercises/Ch18/Inventory_Management_Simulation_Results.csv
+exercises/Ch18/Average_Inventory_Costs_By_Supplier.csv
+exercises/Ch13/synthetic_data.csv
+exercises/Ch13/synthetic_segmentation_data.csv

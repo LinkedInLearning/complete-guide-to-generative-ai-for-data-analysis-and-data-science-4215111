@@ -4,7 +4,7 @@
 		"dockerfile": "Dockerfile",
 		"context": "..",
 		"args": { 
-			"VARIANT": "3.10",      // Set Python version here
+			"VARIANT": "3.13",      // Set Python version here
 			"NODE_VERSION": "lts/*"
 		}
 	},
@@ -29,5 +29,5 @@
 	],
 	"remoteUser": "vscode",
 	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
-	"postCreateCommand": "sh .devcontainer/startup.sh"
+	"postCreateCommand": "pip3 install --user -r requirements.txt"
 }
