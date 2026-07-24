@@ -1,0 +1,74 @@
+# Executes every exercise notebook top to bottom so the repo can't silently rot
+# again. Any cell that errors unexpectedly fails the build.
+name: Execute notebooks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  run-notebooks:
+    runs-on: ubuntu-latest
+    env:
+      MPLBACKEND: Agg   # headless matplotlib; plt.show() becomes a no-op
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install OpenMP runtime (required by xgboost)
+        run: sudo apt-get update && sudo apt-get install -y libgomp1
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install nbconvert nbclient ipykernel
+
+      - name: Execute every notebook
+        run: |
+          # Notebooks excluded from execution (must stay in sync with the repo):
+          #
+          #   exercises/Ch13/13_05_Hyperparameter.ipynb
+          #       Two cells generate synthetic data from an external "Train.csv"
+          #       (a customer-segmentation dataset) that was never committed to
+          #       the repo, so they cannot run without fabricating data. The
+          #       grid-search cells in this notebook DO work; only the synthetic
+          #       -data cells are blocked. See the PR notes.
+          #
+          # Note: exercises/Ch13/13_03_SimpleClassifier.ipynb is NOT excluded.
+          # Its first code cell deliberately fails (RandomForest rejects NaN) to
+          # motivate imputation; that cell is tagged "raises-exception" so
+          # nbconvert treats the error as expected and continues.
+          EXCLUDE="exercises/Ch13/13_05_Hyperparameter.ipynb"
+
+          status=0
+          while IFS= read -r nb; do
+            skip=0
+            for ex in $EXCLUDE; do
+              if [ "$nb" = "$ex" ]; then skip=1; fi
+            done
+            if [ "$skip" = "1" ]; then
+              echo "::notice::SKIP (excluded) $nb"
+              continue
+            fi
+
+            dir=$(dirname "$nb")
+            base=$(basename "$nb")
+            echo "::group::EXECUTE $nb"
+            # Run from the notebook's own directory so relative data paths resolve.
+            if ( cd "$dir" && jupyter nbconvert --to notebook --execute \
+                   --ExecutePreprocessor.timeout=1200 \
+                   --output /tmp/executed.ipynb "$base" ); then
+              echo "PASS $nb"
+            else
+              echo "::error::FAIL $nb"
+              status=1
+            fi
+            echo "::endgroup::"
+          done < <(find exercises -name '*.ipynb' | sort)
+
+          exit $status
