@@ -30,20 +30,13 @@ jobs:
 
       - name: Execute every notebook
         run: |
-          # Notebooks excluded from execution (must stay in sync with the repo):
+          # No notebooks are excluded: every notebook under exercises/ runs.
           #
-          #   exercises/Ch13/13_05_Hyperparameter.ipynb
-          #       Two cells generate synthetic data from an external "Train.csv"
-          #       (a customer-segmentation dataset) that was never committed to
-          #       the repo, so they cannot run without fabricating data. The
-          #       grid-search cells in this notebook DO work; only the synthetic
-          #       -data cells are blocked. See the PR notes.
-          #
-          # Note: exercises/Ch13/13_03_SimpleClassifier.ipynb is NOT excluded.
-          # Its first code cell deliberately fails (RandomForest rejects NaN) to
-          # motivate imputation; that cell is tagged "raises-exception" so
-          # nbconvert treats the error as expected and continues.
-          EXCLUDE="exercises/Ch13/13_05_Hyperparameter.ipynb"
+          # Note: exercises/Ch13/13_03_SimpleClassifier.ipynb has a first code
+          # cell that deliberately fails (RandomForest rejects NaN) to motivate
+          # imputation; that cell is tagged "raises-exception" so nbconvert
+          # treats the error as expected and continues.
+          EXCLUDE=""
 
           status=0
           while IFS= read -r nb; do
